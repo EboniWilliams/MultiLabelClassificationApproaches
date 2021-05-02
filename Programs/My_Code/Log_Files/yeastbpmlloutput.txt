@@ -1,0 +1,4512 @@
+FinalNets = 
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+    {0×0 double}
+
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1182.0746
+Elapsed time is 115.999868 seconds.
+training epochs:2
+Global error after2 epochs is:1111.053
+Elapsed time is 125.315019 seconds.
+training epochs:3
+Global error after3 epochs is:1076.386
+Elapsed time is 140.868131 seconds.
+training epochs:4
+Global error after4 epochs is:1059.7019
+Elapsed time is 94.225915 seconds.
+training epochs:5
+Global error after5 epochs is:1050.2021
+Elapsed time is 96.952256 seconds.
+training epochs:6
+Global error after6 epochs is:1044.045
+Elapsed time is 90.271670 seconds.
+training epochs:7
+Global error after7 epochs is:1039.7558
+Elapsed time is 85.226625 seconds.
+training epochs:8
+Global error after8 epochs is:1036.6418
+Elapsed time is 85.872227 seconds.
+training epochs:9
+Global error after9 epochs is:1034.3181
+Elapsed time is 112.178343 seconds.
+training epochs:10
+Global error after10 epochs is:1032.5466
+Elapsed time is 96.534138 seconds.
+training epochs:11
+Global error after11 epochs is:1031.1715
+Elapsed time is 79.593101 seconds.
+training epochs:12
+Global error after12 epochs is:1030.0873
+Elapsed time is 89.116419 seconds.
+training epochs:13
+Global error after13 epochs is:1029.2207
+Elapsed time is 88.590435 seconds.
+training epochs:14
+Global error after14 epochs is:1028.52
+Elapsed time is 81.564320 seconds.
+training epochs:15
+Global error after15 epochs is:1027.9478
+Elapsed time is 75.118898 seconds.
+training epochs:16
+Global error after16 epochs is:1027.4766
+Elapsed time is 76.195536 seconds.
+training epochs:17
+Global error after17 epochs is:1027.0855
+Elapsed time is 82.434069 seconds.
+training epochs:18
+Global error after18 epochs is:1026.7586
+Elapsed time is 86.907420 seconds.
+training epochs:19
+Global error after19 epochs is:1026.4837
+Elapsed time is 100.344268 seconds.
+training epochs:20
+Global error after20 epochs is:1026.2511
+Elapsed time is 83.723086 seconds.
+training epochs:21
+Global error after21 epochs is:1026.053
+Elapsed time is 92.101185 seconds.
+training epochs:22
+Global error after22 epochs is:1025.8834
+Elapsed time is 84.672068 seconds.
+training epochs:23
+Global error after23 epochs is:1025.7372
+Elapsed time is 91.496887 seconds.
+training epochs:24
+Global error after24 epochs is:1025.6105
+Elapsed time is 78.770766 seconds.
+training epochs:25
+Global error after25 epochs is:1025.5
+Elapsed time is 77.611692 seconds.
+training epochs:26
+Global error after26 epochs is:1025.4029
+Elapsed time is 74.572374 seconds.
+training epochs:27
+Global error after27 epochs is:1025.3171
+Elapsed time is 73.455195 seconds.
+training epochs:28
+Global error after28 epochs is:1025.2408
+Elapsed time is 72.792274 seconds.
+training epochs:29
+Global error after29 epochs is:1025.1723
+Elapsed time is 89.160685 seconds.
+training epochs:30
+Global error after30 epochs is:1025.1105
+Elapsed time is 93.477192 seconds.
+training epochs:31
+Global error after31 epochs is:1025.0543
+Elapsed time is 90.564951 seconds.
+training epochs:32
+Global error after32 epochs is:1025.0029
+Elapsed time is 86.592572 seconds.
+training epochs:33
+Global error after33 epochs is:1024.9554
+Elapsed time is 87.939933 seconds.
+training epochs:34
+Global error after34 epochs is:1024.9113
+Elapsed time is 94.847736 seconds.
+training epochs:35
+Global error after35 epochs is:1024.8701
+Elapsed time is 84.958417 seconds.
+training epochs:36
+Global error after36 epochs is:1024.8314
+Elapsed time is 81.785006 seconds.
+training epochs:37
+Global error after37 epochs is:1024.7948
+Elapsed time is 77.950815 seconds.
+training epochs:38
+Global error after38 epochs is:1024.7599
+Elapsed time is 76.026850 seconds.
+training epochs:39
+Global error after39 epochs is:1024.7266
+Elapsed time is 72.835317 seconds.
+training epochs:40
+Global error after40 epochs is:1024.6946
+Elapsed time is 71.081969 seconds.
+training epochs:41
+Global error after41 epochs is:1024.6638
+Elapsed time is 78.464625 seconds.
+training epochs:42
+Global error after42 epochs is:1024.634
+Elapsed time is 75.712794 seconds.
+training epochs:43
+Global error after43 epochs is:1024.6051
+Elapsed time is 76.896261 seconds.
+training epochs:44
+Global error after44 epochs is:1024.577
+Elapsed time is 75.362935 seconds.
+training epochs:45
+Global error after45 epochs is:1024.5496
+Elapsed time is 76.912286 seconds.
+training epochs:46
+Global error after46 epochs is:1024.5229
+Elapsed time is 76.544926 seconds.
+training epochs:47
+Global error after47 epochs is:1024.4968
+Elapsed time is 73.312497 seconds.
+training epochs:48
+Global error after48 epochs is:1024.4713
+Elapsed time is 75.196371 seconds.
+training epochs:49
+Global error after49 epochs is:1024.4463
+Elapsed time is 77.011381 seconds.
+training epochs:50
+Global error after50 epochs is:1024.4218
+Elapsed time is 75.976420 seconds.
+training epochs:51
+Global error after51 epochs is:1024.3979
+Elapsed time is 73.546659 seconds.
+training epochs:52
+Global error after52 epochs is:1024.3745
+Elapsed time is 75.942700 seconds.
+training epochs:53
+Global error after53 epochs is:1024.3515
+Elapsed time is 79.152319 seconds.
+training epochs:54
+Global error after54 epochs is:1024.3291
+Elapsed time is 76.909053 seconds.
+training epochs:55
+Global error after55 epochs is:1024.3072
+Elapsed time is 75.510800 seconds.
+training epochs:56
+Global error after56 epochs is:1024.2858
+Elapsed time is 77.180803 seconds.
+training epochs:57
+Global error after57 epochs is:1024.2649
+Elapsed time is 77.571403 seconds.
+training epochs:58
+Global error after58 epochs is:1024.2446
+Elapsed time is 74.513147 seconds.
+training epochs:59
+Global error after59 epochs is:1024.2248
+Elapsed time is 77.429101 seconds.
+training epochs:60
+Global error after60 epochs is:1024.2055
+Elapsed time is 78.703522 seconds.
+training epochs:61
+Global error after61 epochs is:1024.1868
+Elapsed time is 77.003463 seconds.
+training epochs:62
+Global error after62 epochs is:1024.1687
+Elapsed time is 76.689584 seconds.
+training epochs:63
+Global error after63 epochs is:1024.1511
+Elapsed time is 77.561275 seconds.
+training epochs:64
+Global error after64 epochs is:1024.1341
+Elapsed time is 72.255280 seconds.
+training epochs:65
+Global error after65 epochs is:1024.1177
+Elapsed time is 78.285386 seconds.
+training epochs:66
+Global error after66 epochs is:1024.1019
+Elapsed time is 77.390568 seconds.
+training epochs:67
+Global error after67 epochs is:1024.0867
+Elapsed time is 74.796583 seconds.
+training epochs:68
+Global error after68 epochs is:1024.0721
+Elapsed time is 75.812452 seconds.
+training epochs:69
+Global error after69 epochs is:1024.058
+Elapsed time is 68.148775 seconds.
+training epochs:70
+Global error after70 epochs is:1024.0445
+Elapsed time is 76.374231 seconds.
+training epochs:71
+Global error after71 epochs is:1024.0316
+Elapsed time is 109.132955 seconds.
+training epochs:72
+Global error after72 epochs is:1024.0193
+Elapsed time is 103.847182 seconds.
+training epochs:73
+Global error after73 epochs is:1024.0076
+Elapsed time is 77.441157 seconds.
+training epochs:74
+Global error after74 epochs is:1023.9964
+Elapsed time is 77.618092 seconds.
+training epochs:75
+Global error after75 epochs is:1023.9858
+Elapsed time is 70.474133 seconds.
+training epochs:76
+Global error after76 epochs is:1023.9757
+Elapsed time is 71.169575 seconds.
+training epochs:77
+Global error after77 epochs is:1023.9661
+Elapsed time is 68.508307 seconds.
+training epochs:78
+Global error after78 epochs is:1023.9571
+Elapsed time is 76.551484 seconds.
+training epochs:79
+Global error after79 epochs is:1023.9486
+Elapsed time is 75.958251 seconds.
+training epochs:80
+Global error after80 epochs is:1023.9405
+Elapsed time is 77.658781 seconds.
+training epochs:81
+Global error after81 epochs is:1023.9329
+Elapsed time is 71.828887 seconds.
+training epochs:82
+Global error after82 epochs is:1023.9258
+Elapsed time is 72.800600 seconds.
+training epochs:83
+Global error after83 epochs is:1023.9191
+Elapsed time is 69.171905 seconds.
+training epochs:84
+Global error after84 epochs is:1023.9129
+Elapsed time is 75.562471 seconds.
+training epochs:85
+Global error after85 epochs is:1023.907
+Elapsed time is 77.719720 seconds.
+training epochs:86
+Global error after86 epochs is:1023.9016
+Elapsed time is 76.026822 seconds.
+training epochs:87
+Global error after87 epochs is:1023.8965
+Elapsed time is 71.771197 seconds.
+training epochs:88
+Global error after88 epochs is:1023.8918
+Elapsed time is 78.126464 seconds.
+training epochs:89
+Global error after89 epochs is:1023.8875
+Elapsed time is 75.422303 seconds.
+training epochs:90
+Global error after90 epochs is:1023.8834
+Elapsed time is 77.403952 seconds.
+training epochs:91
+Global error after91 epochs is:1023.8797
+Elapsed time is 73.809036 seconds.
+training epochs:92
+Global error after92 epochs is:1023.8763
+Elapsed time is 73.737845 seconds.
+training epochs:93
+Global error after93 epochs is:1023.8731
+Elapsed time is 64.452255 seconds.
+training epochs:94
+Global error after94 epochs is:1023.8702
+Elapsed time is 64.494634 seconds.
+training epochs:95
+Global error after95 epochs is:1023.8676
+Elapsed time is 64.642557 seconds.
+training epochs:96
+Global error after96 epochs is:1023.8652
+Elapsed time is 64.930204 seconds.
+training epochs:97
+Global error after97 epochs is:1023.863
+Elapsed time is 65.034481 seconds.
+training epochs:98
+Global error after98 epochs is:1023.861
+Elapsed time is 64.650318 seconds.
+training epochs:99
+Global error after99 epochs is:1023.8592
+Elapsed time is 69.505345 seconds.
+training epochs:100
+Global error after100 epochs is:1023.8576
+Elapsed time is 71.347522 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1182.8875
+Elapsed time is 67.497937 seconds.
+training epochs:2
+Global error after2 epochs is:1121.117
+Elapsed time is 66.244923 seconds.
+training epochs:3
+Global error after3 epochs is:1087.7814
+Elapsed time is 65.648963 seconds.
+training epochs:4
+Global error after4 epochs is:1068.3709
+Elapsed time is 66.282673 seconds.
+training epochs:5
+Global error after5 epochs is:1056.3567
+Elapsed time is 66.714212 seconds.
+training epochs:6
+Global error after6 epochs is:1048.466
+Elapsed time is 66.809687 seconds.
+training epochs:7
+Global error after7 epochs is:1043.0297
+Elapsed time is 67.855332 seconds.
+training epochs:8
+Global error after8 epochs is:1039.1405
+Elapsed time is 67.005363 seconds.
+training epochs:9
+Global error after9 epochs is:1036.2765
+Elapsed time is 64.918279 seconds.
+training epochs:10
+Global error after10 epochs is:1034.1204
+Elapsed time is 66.488566 seconds.
+training epochs:11
+Global error after11 epochs is:1032.4684
+Elapsed time is 65.855079 seconds.
+training epochs:12
+Global error after12 epochs is:1031.1842
+Elapsed time is 66.779449 seconds.
+training epochs:13
+Global error after13 epochs is:1030.1734
+Elapsed time is 67.150241 seconds.
+training epochs:14
+Global error after14 epochs is:1029.3695
+Elapsed time is 65.417831 seconds.
+training epochs:15
+Global error after15 epochs is:1028.7241
+Elapsed time is 65.097671 seconds.
+training epochs:16
+Global error after16 epochs is:1028.2018
+Elapsed time is 64.888148 seconds.
+training epochs:17
+Global error after17 epochs is:1027.7762
+Elapsed time is 66.592468 seconds.
+training epochs:18
+Global error after18 epochs is:1027.4272
+Elapsed time is 69.189112 seconds.
+training epochs:19
+Global error after19 epochs is:1027.1394
+Elapsed time is 67.441342 seconds.
+training epochs:20
+Global error after20 epochs is:1026.9007
+Elapsed time is 65.044679 seconds.
+training epochs:21
+Global error after21 epochs is:1026.7019
+Elapsed time is 65.869263 seconds.
+training epochs:22
+Global error after22 epochs is:1026.5354
+Elapsed time is 65.420796 seconds.
+training epochs:23
+Global error after23 epochs is:1026.3954
+Elapsed time is 72.574169 seconds.
+training epochs:24
+Global error after24 epochs is:1026.277
+Elapsed time is 70.274485 seconds.
+training epochs:25
+Global error after25 epochs is:1026.1765
+Elapsed time is 70.998924 seconds.
+training epochs:26
+Global error after26 epochs is:1026.0908
+Elapsed time is 68.849627 seconds.
+training epochs:27
+Global error after27 epochs is:1026.0172
+Elapsed time is 78.658294 seconds.
+training epochs:28
+Global error after28 epochs is:1025.9536
+Elapsed time is 86.356958 seconds.
+training epochs:29
+Global error after29 epochs is:1025.8985
+Elapsed time is 76.465545 seconds.
+training epochs:30
+Global error after30 epochs is:1025.8504
+Elapsed time is 82.057045 seconds.
+training epochs:31
+Global error after31 epochs is:1025.8081
+Elapsed time is 87.805625 seconds.
+training epochs:32
+Global error after32 epochs is:1025.7706
+Elapsed time is 82.310453 seconds.
+training epochs:33
+Global error after33 epochs is:1025.7372
+Elapsed time is 76.115448 seconds.
+training epochs:34
+Global error after34 epochs is:1025.7073
+Elapsed time is 74.919258 seconds.
+training epochs:35
+Global error after35 epochs is:1025.6801
+Elapsed time is 74.481340 seconds.
+training epochs:36
+Global error after36 epochs is:1025.6554
+Elapsed time is 73.898943 seconds.
+training epochs:37
+Global error after37 epochs is:1025.6327
+Elapsed time is 74.007728 seconds.
+training epochs:38
+Global error after38 epochs is:1025.6117
+Elapsed time is 75.896829 seconds.
+training epochs:39
+Global error after39 epochs is:1025.5922
+Elapsed time is 80.802929 seconds.
+training epochs:40
+Global error after40 epochs is:1025.5738
+Elapsed time is 75.687023 seconds.
+training epochs:41
+Global error after41 epochs is:1025.5565
+Elapsed time is 76.337502 seconds.
+training epochs:42
+Global error after42 epochs is:1025.5401
+Elapsed time is 79.234876 seconds.
+training epochs:43
+Global error after43 epochs is:1025.5245
+Elapsed time is 77.815135 seconds.
+training epochs:44
+Global error after44 epochs is:1025.5094
+Elapsed time is 76.083855 seconds.
+training epochs:45
+Global error after45 epochs is:1025.495
+Elapsed time is 76.076510 seconds.
+training epochs:46
+Global error after46 epochs is:1025.481
+Elapsed time is 75.164254 seconds.
+training epochs:47
+Global error after47 epochs is:1025.4674
+Elapsed time is 76.098335 seconds.
+training epochs:48
+Global error after48 epochs is:1025.4542
+Elapsed time is 74.037521 seconds.
+training epochs:49
+Global error after49 epochs is:1025.4413
+Elapsed time is 74.975405 seconds.
+training epochs:50
+Global error after50 epochs is:1025.4287
+Elapsed time is 80.005521 seconds.
+training epochs:51
+Global error after51 epochs is:1025.4163
+Elapsed time is 69.922345 seconds.
+training epochs:52
+Global error after52 epochs is:1025.4042
+Elapsed time is 74.285100 seconds.
+training epochs:53
+Global error after53 epochs is:1025.3923
+Elapsed time is 78.436051 seconds.
+training epochs:54
+Global error after54 epochs is:1025.3806
+Elapsed time is 78.011017 seconds.
+training epochs:55
+Global error after55 epochs is:1025.3691
+Elapsed time is 73.917540 seconds.
+training epochs:56
+Global error after56 epochs is:1025.3577
+Elapsed time is 78.459419 seconds.
+training epochs:57
+Global error after57 epochs is:1025.3466
+Elapsed time is 77.121859 seconds.
+training epochs:58
+Global error after58 epochs is:1025.3355
+Elapsed time is 76.038758 seconds.
+training epochs:59
+Global error after59 epochs is:1025.3246
+Elapsed time is 77.142912 seconds.
+training epochs:60
+Global error after60 epochs is:1025.3139
+Elapsed time is 73.715573 seconds.
+training epochs:61
+Global error after61 epochs is:1025.3033
+Elapsed time is 75.709143 seconds.
+training epochs:62
+Global error after62 epochs is:1025.2929
+Elapsed time is 74.676568 seconds.
+training epochs:63
+Global error after63 epochs is:1025.2826
+Elapsed time is 77.843616 seconds.
+training epochs:64
+Global error after64 epochs is:1025.2725
+Elapsed time is 74.659230 seconds.
+training epochs:65
+Global error after65 epochs is:1025.2624
+Elapsed time is 77.283310 seconds.
+training epochs:66
+Global error after66 epochs is:1025.2526
+Elapsed time is 74.699206 seconds.
+training epochs:67
+Global error after67 epochs is:1025.2429
+Elapsed time is 75.761627 seconds.
+training epochs:68
+Global error after68 epochs is:1025.2333
+Elapsed time is 74.848334 seconds.
+training epochs:69
+Global error after69 epochs is:1025.2239
+Elapsed time is 76.439443 seconds.
+training epochs:70
+Global error after70 epochs is:1025.2146
+Elapsed time is 78.165848 seconds.
+training epochs:71
+Global error after71 epochs is:1025.2054
+Elapsed time is 72.086299 seconds.
+training epochs:72
+Global error after72 epochs is:1025.1965
+Elapsed time is 76.728201 seconds.
+training epochs:73
+Global error after73 epochs is:1025.1876
+Elapsed time is 76.724653 seconds.
+training epochs:74
+Global error after74 epochs is:1025.179
+Elapsed time is 76.520569 seconds.
+training epochs:75
+Global error after75 epochs is:1025.1704
+Elapsed time is 76.040644 seconds.
+training epochs:76
+Global error after76 epochs is:1025.1621
+Elapsed time is 75.622699 seconds.
+training epochs:77
+Global error after77 epochs is:1025.1539
+Elapsed time is 77.081681 seconds.
+training epochs:78
+Global error after78 epochs is:1025.1458
+Elapsed time is 76.226345 seconds.
+training epochs:79
+Global error after79 epochs is:1025.1379
+Elapsed time is 75.496575 seconds.
+training epochs:80
+Global error after80 epochs is:1025.1302
+Elapsed time is 76.531249 seconds.
+training epochs:81
+Global error after81 epochs is:1025.1227
+Elapsed time is 75.218595 seconds.
+training epochs:82
+Global error after82 epochs is:1025.1152
+Elapsed time is 76.587216 seconds.
+training epochs:83
+Global error after83 epochs is:1025.108
+Elapsed time is 77.620769 seconds.
+training epochs:84
+Global error after84 epochs is:1025.1009
+Elapsed time is 78.355862 seconds.
+training epochs:85
+Global error after85 epochs is:1025.094
+Elapsed time is 76.759184 seconds.
+training epochs:86
+Global error after86 epochs is:1025.0872
+Elapsed time is 77.734446 seconds.
+training epochs:87
+Global error after87 epochs is:1025.0806
+Elapsed time is 76.719766 seconds.
+training epochs:88
+Global error after88 epochs is:1025.0742
+Elapsed time is 76.392457 seconds.
+training epochs:89
+Global error after89 epochs is:1025.0679
+Elapsed time is 77.596902 seconds.
+training epochs:90
+Global error after90 epochs is:1025.0617
+Elapsed time is 76.060719 seconds.
+training epochs:91
+Global error after91 epochs is:1025.0557
+Elapsed time is 79.007902 seconds.
+training epochs:92
+Global error after92 epochs is:1025.0499
+Elapsed time is 76.636978 seconds.
+training epochs:93
+Global error after93 epochs is:1025.0442
+Elapsed time is 79.272076 seconds.
+training epochs:94
+Global error after94 epochs is:1025.0387
+Elapsed time is 74.929270 seconds.
+training epochs:95
+Global error after95 epochs is:1025.0333
+Elapsed time is 77.683846 seconds.
+training epochs:96
+Global error after96 epochs is:1025.028
+Elapsed time is 79.169507 seconds.
+training epochs:97
+Global error after97 epochs is:1025.0229
+Elapsed time is 78.535009 seconds.
+training epochs:98
+Global error after98 epochs is:1025.018
+Elapsed time is 76.252753 seconds.
+training epochs:99
+Global error after99 epochs is:1025.0132
+Elapsed time is 76.337075 seconds.
+training epochs:100
+Global error after100 epochs is:1025.0085
+Elapsed time is 76.245523 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1159.5418
+Elapsed time is 76.793189 seconds.
+training epochs:2
+Global error after2 epochs is:1102.3925
+Elapsed time is 73.722863 seconds.
+training epochs:3
+Global error after3 epochs is:1074.9506
+Elapsed time is 74.385339 seconds.
+training epochs:4
+Global error after4 epochs is:1059.1831
+Elapsed time is 76.086214 seconds.
+training epochs:5
+Global error after5 epochs is:1049.2279
+Elapsed time is 79.417517 seconds.
+training epochs:6
+Global error after6 epochs is:1042.6507
+Elapsed time is 77.828644 seconds.
+training epochs:7
+Global error after7 epochs is:1038.1608
+Elapsed time is 76.729417 seconds.
+training epochs:8
+Global error after8 epochs is:1035.0058
+Elapsed time is 75.539154 seconds.
+training epochs:9
+Global error after9 epochs is:1032.7287
+Elapsed time is 76.594707 seconds.
+training epochs:10
+Global error after10 epochs is:1031.0441
+Elapsed time is 74.712794 seconds.
+training epochs:11
+Global error after11 epochs is:1029.7694
+Elapsed time is 76.679747 seconds.
+training epochs:12
+Global error after12 epochs is:1028.7853
+Elapsed time is 76.813335 seconds.
+training epochs:13
+Global error after13 epochs is:1028.0119
+Elapsed time is 77.603902 seconds.
+training epochs:14
+Global error after14 epochs is:1027.3948
+Elapsed time is 75.520052 seconds.
+training epochs:15
+Global error after15 epochs is:1026.8959
+Elapsed time is 80.632827 seconds.
+training epochs:16
+Global error after16 epochs is:1026.4881
+Elapsed time is 79.857983 seconds.
+training epochs:17
+Global error after17 epochs is:1026.1517
+Elapsed time is 81.502165 seconds.
+training epochs:18
+Global error after18 epochs is:1025.8718
+Elapsed time is 79.627193 seconds.
+training epochs:19
+Global error after19 epochs is:1025.6373
+Elapsed time is 80.020972 seconds.
+training epochs:20
+Global error after20 epochs is:1025.4397
+Elapsed time is 78.407037 seconds.
+training epochs:21
+Global error after21 epochs is:1025.2721
+Elapsed time is 80.407126 seconds.
+training epochs:22
+Global error after22 epochs is:1025.1294
+Elapsed time is 81.254521 seconds.
+training epochs:23
+Global error after23 epochs is:1025.0072
+Elapsed time is 81.096687 seconds.
+training epochs:24
+Global error after24 epochs is:1024.9021
+Elapsed time is 80.352972 seconds.
+training epochs:25
+Global error after25 epochs is:1024.8113
+Elapsed time is 80.627682 seconds.
+training epochs:26
+Global error after26 epochs is:1024.7325
+Elapsed time is 80.233682 seconds.
+training epochs:27
+Global error after27 epochs is:1024.6638
+Elapsed time is 80.863223 seconds.
+training epochs:28
+Global error after28 epochs is:1024.6037
+Elapsed time is 80.371573 seconds.
+training epochs:29
+Global error after29 epochs is:1024.5508
+Elapsed time is 80.256825 seconds.
+training epochs:30
+Global error after30 epochs is:1024.504
+Elapsed time is 76.979938 seconds.
+training epochs:31
+Global error after31 epochs is:1024.4625
+Elapsed time is 79.063064 seconds.
+training epochs:32
+Global error after32 epochs is:1024.4255
+Elapsed time is 67.496082 seconds.
+training epochs:33
+Global error after33 epochs is:1024.3923
+Elapsed time is 62.782833 seconds.
+training epochs:34
+Global error after34 epochs is:1024.3624
+Elapsed time is 64.699730 seconds.
+training epochs:35
+Global error after35 epochs is:1024.3354
+Elapsed time is 65.415009 seconds.
+training epochs:36
+Global error after36 epochs is:1024.3109
+Elapsed time is 74.802051 seconds.
+training epochs:37
+Global error after37 epochs is:1024.2885
+Elapsed time is 69.422574 seconds.
+training epochs:38
+Global error after38 epochs is:1024.268
+Elapsed time is 68.393776 seconds.
+training epochs:39
+Global error after39 epochs is:1024.2491
+Elapsed time is 70.598505 seconds.
+training epochs:40
+Global error after40 epochs is:1024.2316
+Elapsed time is 67.856550 seconds.
+training epochs:41
+Global error after41 epochs is:1024.2154
+Elapsed time is 82.615168 seconds.
+training epochs:42
+Global error after42 epochs is:1024.2003
+Elapsed time is 100.223724 seconds.
+training epochs:43
+Global error after43 epochs is:1024.1862
+Elapsed time is 84.306890 seconds.
+training epochs:44
+Global error after44 epochs is:1024.1729
+Elapsed time is 91.134153 seconds.
+training epochs:45
+Global error after45 epochs is:1024.1604
+Elapsed time is 106.843689 seconds.
+training epochs:46
+Global error after46 epochs is:1024.1486
+Elapsed time is 80.990380 seconds.
+training epochs:47
+Global error after47 epochs is:1024.1374
+Elapsed time is 72.724457 seconds.
+training epochs:48
+Global error after48 epochs is:1024.1267
+Elapsed time is 74.686437 seconds.
+training epochs:49
+Global error after49 epochs is:1024.1166
+Elapsed time is 123.294445 seconds.
+training epochs:50
+Global error after50 epochs is:1024.1069
+Elapsed time is 88.976799 seconds.
+training epochs:51
+Global error after51 epochs is:1024.0976
+Elapsed time is 77.494350 seconds.
+training epochs:52
+Global error after52 epochs is:1024.0887
+Elapsed time is 91.139455 seconds.
+training epochs:53
+Global error after53 epochs is:1024.0801
+Elapsed time is 84.472958 seconds.
+training epochs:54
+Global error after54 epochs is:1024.0719
+Elapsed time is 75.895265 seconds.
+training epochs:55
+Global error after55 epochs is:1024.064
+Elapsed time is 65.945452 seconds.
+training epochs:56
+Global error after56 epochs is:1024.0563
+Elapsed time is 69.275678 seconds.
+training epochs:57
+Global error after57 epochs is:1024.0489
+Elapsed time is 69.707417 seconds.
+training epochs:58
+Global error after58 epochs is:1024.0418
+Elapsed time is 77.939231 seconds.
+training epochs:59
+Global error after59 epochs is:1024.0348
+Elapsed time is 65.493028 seconds.
+training epochs:60
+Global error after60 epochs is:1024.0281
+Elapsed time is 66.887291 seconds.
+training epochs:61
+Global error after61 epochs is:1024.0217
+Elapsed time is 67.397354 seconds.
+training epochs:62
+Global error after62 epochs is:1024.0154
+Elapsed time is 70.186313 seconds.
+training epochs:63
+Global error after63 epochs is:1024.0093
+Elapsed time is 74.153622 seconds.
+training epochs:64
+Global error after64 epochs is:1024.0035
+Elapsed time is 71.164239 seconds.
+training epochs:65
+Global error after65 epochs is:1023.9978
+Elapsed time is 74.422275 seconds.
+training epochs:66
+Global error after66 epochs is:1023.9923
+Elapsed time is 65.606444 seconds.
+training epochs:67
+Global error after67 epochs is:1023.987
+Elapsed time is 63.946203 seconds.
+training epochs:68
+Global error after68 epochs is:1023.9819
+Elapsed time is 64.363679 seconds.
+training epochs:69
+Global error after69 epochs is:1023.977
+Elapsed time is 64.115238 seconds.
+training epochs:70
+Global error after70 epochs is:1023.9723
+Elapsed time is 64.863322 seconds.
+training epochs:71
+Global error after71 epochs is:1023.9677
+Elapsed time is 64.196649 seconds.
+training epochs:72
+Global error after72 epochs is:1023.9634
+Elapsed time is 64.407192 seconds.
+training epochs:73
+Global error after73 epochs is:1023.9592
+Elapsed time is 63.884757 seconds.
+training epochs:74
+Global error after74 epochs is:1023.9552
+Elapsed time is 64.105020 seconds.
+training epochs:75
+Global error after75 epochs is:1023.9514
+Elapsed time is 64.062398 seconds.
+training epochs:76
+Global error after76 epochs is:1023.9478
+Elapsed time is 64.341211 seconds.
+training epochs:77
+Global error after77 epochs is:1023.9444
+Elapsed time is 64.153825 seconds.
+training epochs:78
+Global error after78 epochs is:1023.9411
+Elapsed time is 61.908139 seconds.
+training epochs:79
+Global error after79 epochs is:1023.9381
+Elapsed time is 60.904147 seconds.
+training epochs:80
+Global error after80 epochs is:1023.9352
+Elapsed time is 62.196252 seconds.
+training epochs:81
+Global error after81 epochs is:1023.9324
+Elapsed time is 63.041561 seconds.
+training epochs:82
+Global error after82 epochs is:1023.9299
+Elapsed time is 63.055177 seconds.
+training epochs:83
+Global error after83 epochs is:1023.9275
+Elapsed time is 61.849100 seconds.
+training epochs:84
+Global error after84 epochs is:1023.9252
+Elapsed time is 62.662435 seconds.
+training epochs:85
+Global error after85 epochs is:1023.9231
+Elapsed time is 62.369651 seconds.
+training epochs:86
+Global error after86 epochs is:1023.9211
+Elapsed time is 63.446461 seconds.
+training epochs:87
+Global error after87 epochs is:1023.9192
+Elapsed time is 62.150387 seconds.
+training epochs:88
+Global error after88 epochs is:1023.9175
+Elapsed time is 63.099603 seconds.
+training epochs:89
+Global error after89 epochs is:1023.9159
+Elapsed time is 62.797928 seconds.
+training epochs:90
+Global error after90 epochs is:1023.9144
+Elapsed time is 62.974311 seconds.
+training epochs:91
+Global error after91 epochs is:1023.913
+Elapsed time is 61.405451 seconds.
+training epochs:92
+Global error after92 epochs is:1023.9116
+Elapsed time is 61.021302 seconds.
+training epochs:93
+Global error after93 epochs is:1023.9103
+Elapsed time is 63.675658 seconds.
+training epochs:94
+Global error after94 epochs is:1023.9091
+Elapsed time is 64.153411 seconds.
+training epochs:95
+Global error after95 epochs is:1023.908
+Elapsed time is 64.373604 seconds.
+training epochs:96
+Global error after96 epochs is:1023.9068
+Elapsed time is 64.908024 seconds.
+training epochs:97
+Global error after97 epochs is:1023.9057
+Elapsed time is 63.912238 seconds.
+training epochs:98
+Global error after98 epochs is:1023.9047
+Elapsed time is 64.146719 seconds.
+training epochs:99
+Global error after99 epochs is:1023.9036
+Elapsed time is 64.000528 seconds.
+training epochs:100
+Global error after100 epochs is:1023.9025
+Elapsed time is 64.391880 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1202.3715
+Elapsed time is 64.122706 seconds.
+training epochs:2
+Global error after2 epochs is:1117.3544
+Elapsed time is 61.222026 seconds.
+training epochs:3
+Global error after3 epochs is:1077.0635
+Elapsed time is 63.355487 seconds.
+training epochs:4
+Global error after4 epochs is:1055.9098
+Elapsed time is 62.666816 seconds.
+training epochs:5
+Global error after5 epochs is:1043.5662
+Elapsed time is 63.688253 seconds.
+training epochs:6
+Global error after6 epochs is:1035.7655
+Elapsed time is 62.096453 seconds.
+training epochs:7
+Global error after7 epochs is:1030.5307
+Elapsed time is 62.631956 seconds.
+training epochs:8
+Global error after8 epochs is:1026.8681
+Elapsed time is 63.000691 seconds.
+training epochs:9
+Global error after9 epochs is:1024.2276
+Elapsed time is 62.478896 seconds.
+training epochs:10
+Global error after10 epochs is:1022.2785
+Elapsed time is 63.570744 seconds.
+training epochs:11
+Global error after11 epochs is:1020.8104
+Elapsed time is 63.895951 seconds.
+training epochs:12
+Global error after12 epochs is:1019.6845
+Elapsed time is 63.187588 seconds.
+training epochs:13
+Global error after13 epochs is:1018.8068
+Elapsed time is 62.570791 seconds.
+training epochs:14
+Global error after14 epochs is:1018.1122
+Elapsed time is 62.840379 seconds.
+training epochs:15
+Global error after15 epochs is:1017.5549
+Elapsed time is 63.737943 seconds.
+training epochs:16
+Global error after16 epochs is:1017.1021
+Elapsed time is 61.646549 seconds.
+training epochs:17
+Global error after17 epochs is:1016.7299
+Elapsed time is 62.116357 seconds.
+training epochs:18
+Global error after18 epochs is:1016.4208
+Elapsed time is 62.848821 seconds.
+training epochs:19
+Global error after19 epochs is:1016.1618
+Elapsed time is 67.190910 seconds.
+training epochs:20
+Global error after20 epochs is:1015.9428
+Elapsed time is 66.994783 seconds.
+training epochs:21
+Global error after21 epochs is:1015.7562
+Elapsed time is 63.447632 seconds.
+training epochs:22
+Global error after22 epochs is:1015.5962
+Elapsed time is 63.737787 seconds.
+training epochs:23
+Global error after23 epochs is:1015.458
+Elapsed time is 64.938882 seconds.
+training epochs:24
+Global error after24 epochs is:1015.338
+Elapsed time is 63.946425 seconds.
+training epochs:25
+Global error after25 epochs is:1015.2331
+Elapsed time is 64.292761 seconds.
+training epochs:26
+Global error after26 epochs is:1015.1411
+Elapsed time is 63.984736 seconds.
+training epochs:27
+Global error after27 epochs is:1015.0599
+Elapsed time is 64.525004 seconds.
+training epochs:28
+Global error after28 epochs is:1014.988
+Elapsed time is 64.345724 seconds.
+training epochs:29
+Global error after29 epochs is:1014.9239
+Elapsed time is 64.184617 seconds.
+training epochs:30
+Global error after30 epochs is:1014.8666
+Elapsed time is 63.920930 seconds.
+training epochs:31
+Global error after31 epochs is:1014.8151
+Elapsed time is 63.786636 seconds.
+training epochs:32
+Global error after32 epochs is:1014.7687
+Elapsed time is 63.599920 seconds.
+training epochs:33
+Global error after33 epochs is:1014.7267
+Elapsed time is 64.056926 seconds.
+training epochs:34
+Global error after34 epochs is:1014.6885
+Elapsed time is 63.596463 seconds.
+training epochs:35
+Global error after35 epochs is:1014.6537
+Elapsed time is 63.649007 seconds.
+training epochs:36
+Global error after36 epochs is:1014.6217
+Elapsed time is 63.990709 seconds.
+training epochs:37
+Global error after37 epochs is:1014.5924
+Elapsed time is 63.552312 seconds.
+training epochs:38
+Global error after38 epochs is:1014.5654
+Elapsed time is 65.776733 seconds.
+training epochs:39
+Global error after39 epochs is:1014.5403
+Elapsed time is 83.490261 seconds.
+training epochs:40
+Global error after40 epochs is:1014.517
+Elapsed time is 87.343654 seconds.
+training epochs:41
+Global error after41 epochs is:1014.4954
+Elapsed time is 121.276190 seconds.
+training epochs:42
+Global error after42 epochs is:1014.4751
+Elapsed time is 119.094151 seconds.
+training epochs:43
+Global error after43 epochs is:1014.4561
+Elapsed time is 137.738048 seconds.
+training epochs:44
+Global error after44 epochs is:1014.4383
+Elapsed time is 142.794476 seconds.
+training epochs:45
+Global error after45 epochs is:1014.4214
+Elapsed time is 130.112321 seconds.
+training epochs:46
+Global error after46 epochs is:1014.4055
+Elapsed time is 114.096884 seconds.
+training epochs:47
+Global error after47 epochs is:1014.3904
+Elapsed time is 157.262829 seconds.
+training epochs:48
+Global error after48 epochs is:1014.3761
+Elapsed time is 192.116832 seconds.
+training epochs:49
+Global error after49 epochs is:1014.3625
+Elapsed time is 73.417394 seconds.
+training epochs:50
+Global error after50 epochs is:1014.3496
+Elapsed time is 137.521756 seconds.
+training epochs:51
+Global error after51 epochs is:1014.3372
+Elapsed time is 135.727765 seconds.
+training epochs:52
+Global error after52 epochs is:1014.3254
+Elapsed time is 73.602541 seconds.
+training epochs:53
+Global error after53 epochs is:1014.314
+Elapsed time is 72.646970 seconds.
+training epochs:54
+Global error after54 epochs is:1014.3032
+Elapsed time is 72.621060 seconds.
+training epochs:55
+Global error after55 epochs is:1014.2928
+Elapsed time is 74.896061 seconds.
+training epochs:56
+Global error after56 epochs is:1014.2829
+Elapsed time is 76.413931 seconds.
+training epochs:57
+Global error after57 epochs is:1014.2734
+Elapsed time is 74.117986 seconds.
+training epochs:58
+Global error after58 epochs is:1014.2643
+Elapsed time is 164.332169 seconds.
+training epochs:59
+Global error after59 epochs is:1014.2556
+Elapsed time is 243.199702 seconds.
+training epochs:60
+Global error after60 epochs is:1014.2472
+Elapsed time is 84.868346 seconds.
+training epochs:61
+Global error after61 epochs is:1014.2393
+Elapsed time is 96.351030 seconds.
+training epochs:62
+Global error after62 epochs is:1014.2317
+Elapsed time is 256.193441 seconds.
+training epochs:63
+Global error after63 epochs is:1014.2245
+Elapsed time is 140.565904 seconds.
+training epochs:64
+Global error after64 epochs is:1014.2177
+Elapsed time is 160.461835 seconds.
+training epochs:65
+Global error after65 epochs is:1014.2112
+Elapsed time is 110.358454 seconds.
+training epochs:66
+Global error after66 epochs is:1014.2052
+Elapsed time is 118.782965 seconds.
+training epochs:67
+Global error after67 epochs is:1014.1995
+Elapsed time is 73.898832 seconds.
+training epochs:68
+Global error after68 epochs is:1014.1942
+Elapsed time is 74.703549 seconds.
+training epochs:69
+Global error after69 epochs is:1014.1893
+Elapsed time is 73.116082 seconds.
+training epochs:70
+Global error after70 epochs is:1014.1848
+Elapsed time is 94.051193 seconds.
+training epochs:71
+Global error after71 epochs is:1014.1807
+Elapsed time is 105.909751 seconds.
+training epochs:72
+Global error after72 epochs is:1014.177
+Elapsed time is 81.662049 seconds.
+training epochs:73
+Global error after73 epochs is:1014.1736
+Elapsed time is 88.475211 seconds.
+training epochs:74
+Global error after74 epochs is:1014.1707
+Elapsed time is 118.521308 seconds.
+training epochs:75
+Global error after75 epochs is:1014.1681
+Elapsed time is 144.124597 seconds.
+training epochs:76
+Global error after76 epochs is:1014.1659
+Elapsed time is 173.180572 seconds.
+training epochs:77
+Global error after77 epochs is:1014.164
+Elapsed time is 187.157787 seconds.
+training epochs:78
+Global error after78 epochs is:1014.1625
+Elapsed time is 107.343993 seconds.
+training epochs:79
+Global error after79 epochs is:1014.1613
+Elapsed time is 83.533428 seconds.
+training epochs:80
+Global error after80 epochs is:1014.1605
+Elapsed time is 105.888242 seconds.
+training epochs:81
+Global error after81 epochs is:1014.1599
+Elapsed time is 100.491505 seconds.
+training epochs:82
+Global error after82 epochs is:1014.1597
+Elapsed time is 126.880892 seconds.
+training epochs:83
+Global error after83 epochs is:1014.1597
+Elapsed time is 97.222356 seconds.
+training epochs:84
+Global error after84 epochs is:1014.1599
+Elapsed time is 81.030916 seconds.
+training epochs:85
+Global error after85 epochs is:1014.1603
+Elapsed time is 80.241510 seconds.
+training epochs:86
+Global error after86 epochs is:1014.161
+Elapsed time is 82.191271 seconds.
+training epochs:87
+Global error after87 epochs is:1014.1618
+Elapsed time is 112.332835 seconds.
+training epochs:88
+Global error after88 epochs is:1014.1628
+Elapsed time is 109.984994 seconds.
+training epochs:89
+Global error after89 epochs is:1014.1639
+Elapsed time is 147.262022 seconds.
+training epochs:90
+Global error after90 epochs is:1014.1651
+Elapsed time is 199.915616 seconds.
+training epochs:91
+Global error after91 epochs is:1014.1664
+Elapsed time is 141.994415 seconds.
+training epochs:92
+Global error after92 epochs is:1014.1678
+Elapsed time is 111.232678 seconds.
+training epochs:93
+Global error after93 epochs is:1014.1692
+Elapsed time is 95.396737 seconds.
+training epochs:94
+Global error after94 epochs is:1014.1707
+Elapsed time is 98.009469 seconds.
+training epochs:95
+Global error after95 epochs is:1014.1721
+Elapsed time is 131.184456 seconds.
+training epochs:96
+Global error after96 epochs is:1014.1736
+Elapsed time is 107.576868 seconds.
+training epochs:97
+Global error after97 epochs is:1014.175
+Elapsed time is 105.863756 seconds.
+training epochs:98
+Global error after98 epochs is:1014.1764
+Elapsed time is 123.639829 seconds.
+training epochs:99
+Global error after99 epochs is:1014.1777
+Elapsed time is 107.485167 seconds.
+training epochs:100
+Global error after100 epochs is:1014.179
+Elapsed time is 116.114793 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1249.8359
+Elapsed time is 103.628377 seconds.
+training epochs:2
+Global error after2 epochs is:1148.1764
+Elapsed time is 93.143136 seconds.
+training epochs:3
+Global error after3 epochs is:1101.0502
+Elapsed time is 98.423380 seconds.
+training epochs:4
+Global error after4 epochs is:1075.8081
+Elapsed time is 84.689398 seconds.
+training epochs:5
+Global error after5 epochs is:1061.2229
+Elapsed time is 94.270351 seconds.
+training epochs:6
+Global error after6 epochs is:1052.1528
+Elapsed time is 122.553450 seconds.
+training epochs:7
+Global error after7 epochs is:1046.0692
+Elapsed time is 82.434711 seconds.
+training epochs:8
+Global error after8 epochs is:1041.7552
+Elapsed time is 82.384750 seconds.
+training epochs:9
+Global error after9 epochs is:1038.5835
+Elapsed time is 80.982484 seconds.
+training epochs:10
+Global error after10 epochs is:1036.1965
+Elapsed time is 93.940770 seconds.
+training epochs:11
+Global error after11 epochs is:1034.37
+Elapsed time is 82.250433 seconds.
+training epochs:12
+Global error after12 epochs is:1032.9546
+Elapsed time is 93.999508 seconds.
+training epochs:13
+Global error after13 epochs is:1031.846
+Elapsed time is 86.995316 seconds.
+training epochs:14
+Global error after14 epochs is:1030.9697
+Elapsed time is 83.335063 seconds.
+training epochs:15
+Global error after15 epochs is:1030.2714
+Elapsed time is 83.610752 seconds.
+training epochs:16
+Global error after16 epochs is:1029.7108
+Elapsed time is 84.799761 seconds.
+training epochs:17
+Global error after17 epochs is:1029.2577
+Elapsed time is 83.960753 seconds.
+training epochs:18
+Global error after18 epochs is:1028.8895
+Elapsed time is 83.550731 seconds.
+training epochs:19
+Global error after19 epochs is:1028.5887
+Elapsed time is 86.052193 seconds.
+training epochs:20
+Global error after20 epochs is:1028.3416
+Elapsed time is 109.318540 seconds.
+training epochs:21
+Global error after21 epochs is:1028.1378
+Elapsed time is 92.264432 seconds.
+training epochs:22
+Global error after22 epochs is:1027.969
+Elapsed time is 90.092121 seconds.
+training epochs:23
+Global error after23 epochs is:1027.8285
+Elapsed time is 83.847781 seconds.
+training epochs:24
+Global error after24 epochs is:1027.7111
+Elapsed time is 83.062701 seconds.
+training epochs:25
+Global error after25 epochs is:1027.6127
+Elapsed time is 93.467059 seconds.
+training epochs:26
+Global error after26 epochs is:1027.5297
+Elapsed time is 83.748452 seconds.
+training epochs:27
+Global error after27 epochs is:1027.4596
+Elapsed time is 83.823976 seconds.
+training epochs:28
+Global error after28 epochs is:1027.3999
+Elapsed time is 84.862601 seconds.
+training epochs:29
+Global error after29 epochs is:1027.349
+Elapsed time is 86.725989 seconds.
+training epochs:30
+Global error after30 epochs is:1027.3053
+Elapsed time is 84.979080 seconds.
+training epochs:31
+Global error after31 epochs is:1027.2676
+Elapsed time is 84.572400 seconds.
+training epochs:32
+Global error after32 epochs is:1027.2349
+Elapsed time is 86.485216 seconds.
+training epochs:33
+Global error after33 epochs is:1027.2063
+Elapsed time is 87.140516 seconds.
+training epochs:34
+Global error after34 epochs is:1027.1811
+Elapsed time is 82.898798 seconds.
+training epochs:35
+Global error after35 epochs is:1027.1589
+Elapsed time is 84.132068 seconds.
+training epochs:36
+Global error after36 epochs is:1027.1391
+Elapsed time is 91.019019 seconds.
+training epochs:37
+Global error after37 epochs is:1027.1212
+Elapsed time is 77.843009 seconds.
+training epochs:38
+Global error after38 epochs is:1027.1051
+Elapsed time is 82.637704 seconds.
+training epochs:39
+Global error after39 epochs is:1027.0904
+Elapsed time is 81.550362 seconds.
+training epochs:40
+Global error after40 epochs is:1027.0768
+Elapsed time is 77.610624 seconds.
+training epochs:41
+Global error after41 epochs is:1027.0643
+Elapsed time is 76.273835 seconds.
+training epochs:42
+Global error after42 epochs is:1027.0526
+Elapsed time is 77.603093 seconds.
+training epochs:43
+Global error after43 epochs is:1027.0416
+Elapsed time is 77.290758 seconds.
+training epochs:44
+Global error after44 epochs is:1027.0312
+Elapsed time is 78.165182 seconds.
+training epochs:45
+Global error after45 epochs is:1027.0212
+Elapsed time is 77.565405 seconds.
+training epochs:46
+Global error after46 epochs is:1027.0117
+Elapsed time is 77.289761 seconds.
+training epochs:47
+Global error after47 epochs is:1027.0026
+Elapsed time is 76.466494 seconds.
+training epochs:48
+Global error after48 epochs is:1026.9937
+Elapsed time is 78.604439 seconds.
+training epochs:49
+Global error after49 epochs is:1026.985
+Elapsed time is 77.734499 seconds.
+training epochs:50
+Global error after50 epochs is:1026.9766
+Elapsed time is 76.234158 seconds.
+training epochs:51
+Global error after51 epochs is:1026.9683
+Elapsed time is 75.302198 seconds.
+training epochs:52
+Global error after52 epochs is:1026.9602
+Elapsed time is 74.777641 seconds.
+training epochs:53
+Global error after53 epochs is:1026.9522
+Elapsed time is 76.765074 seconds.
+training epochs:54
+Global error after54 epochs is:1026.9443
+Elapsed time is 76.029350 seconds.
+training epochs:55
+Global error after55 epochs is:1026.9365
+Elapsed time is 73.471008 seconds.
+training epochs:56
+Global error after56 epochs is:1026.9288
+Elapsed time is 75.284352 seconds.
+training epochs:57
+Global error after57 epochs is:1026.9211
+Elapsed time is 73.147156 seconds.
+training epochs:58
+Global error after58 epochs is:1026.9134
+Elapsed time is 73.577241 seconds.
+training epochs:59
+Global error after59 epochs is:1026.9058
+Elapsed time is 73.612436 seconds.
+training epochs:60
+Global error after60 epochs is:1026.8983
+Elapsed time is 75.032638 seconds.
+training epochs:61
+Global error after61 epochs is:1026.8907
+Elapsed time is 73.959682 seconds.
+training epochs:62
+Global error after62 epochs is:1026.8832
+Elapsed time is 74.397082 seconds.
+training epochs:63
+Global error after63 epochs is:1026.8757
+Elapsed time is 73.759771 seconds.
+training epochs:64
+Global error after64 epochs is:1026.8682
+Elapsed time is 74.004295 seconds.
+training epochs:65
+Global error after65 epochs is:1026.8607
+Elapsed time is 75.996063 seconds.
+training epochs:66
+Global error after66 epochs is:1026.8533
+Elapsed time is 74.791234 seconds.
+training epochs:67
+Global error after67 epochs is:1026.8458
+Elapsed time is 74.697161 seconds.
+training epochs:68
+Global error after68 epochs is:1026.8384
+Elapsed time is 80.390882 seconds.
+training epochs:69
+Global error after69 epochs is:1026.831
+Elapsed time is 75.472133 seconds.
+training epochs:70
+Global error after70 epochs is:1026.8235
+Elapsed time is 75.567414 seconds.
+training epochs:71
+Global error after71 epochs is:1026.8161
+Elapsed time is 75.070434 seconds.
+training epochs:72
+Global error after72 epochs is:1026.8087
+Elapsed time is 84.499772 seconds.
+training epochs:73
+Global error after73 epochs is:1026.8013
+Elapsed time is 75.685217 seconds.
+training epochs:74
+Global error after74 epochs is:1026.794
+Elapsed time is 76.434618 seconds.
+training epochs:75
+Global error after75 epochs is:1026.7866
+Elapsed time is 78.868755 seconds.
+training epochs:76
+Global error after76 epochs is:1026.7792
+Elapsed time is 74.610343 seconds.
+training epochs:77
+Global error after77 epochs is:1026.7719
+Elapsed time is 75.135350 seconds.
+training epochs:78
+Global error after78 epochs is:1026.7646
+Elapsed time is 76.174403 seconds.
+training epochs:79
+Global error after79 epochs is:1026.7573
+Elapsed time is 74.985345 seconds.
+training epochs:80
+Global error after80 epochs is:1026.75
+Elapsed time is 74.038006 seconds.
+training epochs:81
+Global error after81 epochs is:1026.7427
+Elapsed time is 74.481722 seconds.
+training epochs:82
+Global error after82 epochs is:1026.7354
+Elapsed time is 75.836675 seconds.
+training epochs:83
+Global error after83 epochs is:1026.7282
+Elapsed time is 73.844359 seconds.
+training epochs:84
+Global error after84 epochs is:1026.721
+Elapsed time is 74.036478 seconds.
+training epochs:85
+Global error after85 epochs is:1026.7138
+Elapsed time is 73.771813 seconds.
+training epochs:86
+Global error after86 epochs is:1026.7066
+Elapsed time is 73.898028 seconds.
+training epochs:87
+Global error after87 epochs is:1026.6995
+Elapsed time is 74.206894 seconds.
+training epochs:88
+Global error after88 epochs is:1026.6924
+Elapsed time is 77.214614 seconds.
+training epochs:89
+Global error after89 epochs is:1026.6853
+Elapsed time is 73.274383 seconds.
+training epochs:90
+Global error after90 epochs is:1026.6783
+Elapsed time is 73.939544 seconds.
+training epochs:91
+Global error after91 epochs is:1026.6713
+Elapsed time is 73.210301 seconds.
+training epochs:92
+Global error after92 epochs is:1026.6643
+Elapsed time is 74.024273 seconds.
+training epochs:93
+Global error after93 epochs is:1026.6574
+Elapsed time is 73.561797 seconds.
+training epochs:94
+Global error after94 epochs is:1026.6505
+Elapsed time is 73.622685 seconds.
+training epochs:95
+Global error after95 epochs is:1026.6436
+Elapsed time is 75.961316 seconds.
+training epochs:96
+Global error after96 epochs is:1026.6368
+Elapsed time is 80.723228 seconds.
+training epochs:97
+Global error after97 epochs is:1026.63
+Elapsed time is 74.017104 seconds.
+training epochs:98
+Global error after98 epochs is:1026.6233
+Elapsed time is 74.493939 seconds.
+training epochs:99
+Global error after99 epochs is:1026.6166
+Elapsed time is 77.254042 seconds.
+training epochs:100
+Global error after100 epochs is:1026.61
+Elapsed time is 76.720634 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1192.1664
+Elapsed time is 73.655915 seconds.
+training epochs:2
+Global error after2 epochs is:1128.1092
+Elapsed time is 73.925215 seconds.
+training epochs:3
+Global error after3 epochs is:1096.4326
+Elapsed time is 73.703971 seconds.
+training epochs:4
+Global error after4 epochs is:1078.6614
+Elapsed time is 81.359665 seconds.
+training epochs:5
+Global error after5 epochs is:1067.3604
+Elapsed time is 72.580599 seconds.
+training epochs:6
+Global error after6 epochs is:1059.7919
+Elapsed time is 67.367077 seconds.
+training epochs:7
+Global error after7 epochs is:1054.5881
+Elapsed time is 66.982101 seconds.
+training epochs:8
+Global error after8 epochs is:1050.9335
+Elapsed time is 67.577332 seconds.
+training epochs:9
+Global error after9 epochs is:1048.3163
+Elapsed time is 68.720344 seconds.
+training epochs:10
+Global error after10 epochs is:1046.4072
+Elapsed time is 67.785104 seconds.
+training epochs:11
+Global error after11 epochs is:1044.9898
+Elapsed time is 70.061309 seconds.
+training epochs:12
+Global error after12 epochs is:1043.9191
+Elapsed time is 67.078605 seconds.
+training epochs:13
+Global error after13 epochs is:1043.0966
+Elapsed time is 67.530316 seconds.
+training epochs:14
+Global error after14 epochs is:1042.454
+Elapsed time is 68.077185 seconds.
+training epochs:15
+Global error after15 epochs is:1041.9439
+Elapsed time is 66.128735 seconds.
+training epochs:16
+Global error after16 epochs is:1041.5326
+Elapsed time is 65.961683 seconds.
+training epochs:17
+Global error after17 epochs is:1041.1958
+Elapsed time is 68.762530 seconds.
+training epochs:18
+Global error after18 epochs is:1040.916
+Elapsed time is 66.326207 seconds.
+training epochs:19
+Global error after19 epochs is:1040.6803
+Elapsed time is 65.877978 seconds.
+training epochs:20
+Global error after20 epochs is:1040.4792
+Elapsed time is 65.778159 seconds.
+training epochs:21
+Global error after21 epochs is:1040.3054
+Elapsed time is 67.145207 seconds.
+training epochs:22
+Global error after22 epochs is:1040.1535
+Elapsed time is 66.574431 seconds.
+training epochs:23
+Global error after23 epochs is:1040.0192
+Elapsed time is 66.593926 seconds.
+training epochs:24
+Global error after24 epochs is:1039.8994
+Elapsed time is 66.714847 seconds.
+training epochs:25
+Global error after25 epochs is:1039.7915
+Elapsed time is 67.162461 seconds.
+training epochs:26
+Global error after26 epochs is:1039.6935
+Elapsed time is 67.484319 seconds.
+training epochs:27
+Global error after27 epochs is:1039.6039
+Elapsed time is 66.669026 seconds.
+training epochs:28
+Global error after28 epochs is:1039.5215
+Elapsed time is 68.186528 seconds.
+training epochs:29
+Global error after29 epochs is:1039.4452
+Elapsed time is 66.698205 seconds.
+training epochs:30
+Global error after30 epochs is:1039.3743
+Elapsed time is 66.875903 seconds.
+training epochs:31
+Global error after31 epochs is:1039.3081
+Elapsed time is 65.739722 seconds.
+training epochs:32
+Global error after32 epochs is:1039.246
+Elapsed time is 66.179444 seconds.
+training epochs:33
+Global error after33 epochs is:1039.1877
+Elapsed time is 66.402270 seconds.
+training epochs:34
+Global error after34 epochs is:1039.1327
+Elapsed time is 69.806250 seconds.
+training epochs:35
+Global error after35 epochs is:1039.0807
+Elapsed time is 67.102456 seconds.
+training epochs:36
+Global error after36 epochs is:1039.0316
+Elapsed time is 66.516122 seconds.
+training epochs:37
+Global error after37 epochs is:1038.985
+Elapsed time is 66.688114 seconds.
+training epochs:38
+Global error after38 epochs is:1038.9408
+Elapsed time is 66.356947 seconds.
+training epochs:39
+Global error after39 epochs is:1038.8988
+Elapsed time is 66.441217 seconds.
+training epochs:40
+Global error after40 epochs is:1038.8588
+Elapsed time is 66.432067 seconds.
+training epochs:41
+Global error after41 epochs is:1038.8208
+Elapsed time is 69.065069 seconds.
+training epochs:42
+Global error after42 epochs is:1038.7845
+Elapsed time is 66.484642 seconds.
+training epochs:43
+Global error after43 epochs is:1038.75
+Elapsed time is 66.164758 seconds.
+training epochs:44
+Global error after44 epochs is:1038.7171
+Elapsed time is 66.375057 seconds.
+training epochs:45
+Global error after45 epochs is:1038.6856
+Elapsed time is 67.152664 seconds.
+training epochs:46
+Global error after46 epochs is:1038.6556
+Elapsed time is 66.488195 seconds.
+training epochs:47
+Global error after47 epochs is:1038.627
+Elapsed time is 66.205849 seconds.
+training epochs:48
+Global error after48 epochs is:1038.5996
+Elapsed time is 67.289376 seconds.
+training epochs:49
+Global error after49 epochs is:1038.5734
+Elapsed time is 66.385685 seconds.
+training epochs:50
+Global error after50 epochs is:1038.5484
+Elapsed time is 66.177234 seconds.
+training epochs:51
+Global error after51 epochs is:1038.5245
+Elapsed time is 66.693253 seconds.
+training epochs:52
+Global error after52 epochs is:1038.5016
+Elapsed time is 67.856275 seconds.
+training epochs:53
+Global error after53 epochs is:1038.4797
+Elapsed time is 66.333545 seconds.
+training epochs:54
+Global error after54 epochs is:1038.4588
+Elapsed time is 65.478505 seconds.
+training epochs:55
+Global error after55 epochs is:1038.4387
+Elapsed time is 65.103941 seconds.
+training epochs:56
+Global error after56 epochs is:1038.4195
+Elapsed time is 65.784057 seconds.
+training epochs:57
+Global error after57 epochs is:1038.4011
+Elapsed time is 65.875646 seconds.
+training epochs:58
+Global error after58 epochs is:1038.3834
+Elapsed time is 66.024756 seconds.
+training epochs:59
+Global error after59 epochs is:1038.3665
+Elapsed time is 66.155696 seconds.
+training epochs:60
+Global error after60 epochs is:1038.3502
+Elapsed time is 66.077839 seconds.
+training epochs:61
+Global error after61 epochs is:1038.3346
+Elapsed time is 66.193602 seconds.
+training epochs:62
+Global error after62 epochs is:1038.3197
+Elapsed time is 66.524851 seconds.
+training epochs:63
+Global error after63 epochs is:1038.3053
+Elapsed time is 65.994650 seconds.
+training epochs:64
+Global error after64 epochs is:1038.2915
+Elapsed time is 66.471882 seconds.
+training epochs:65
+Global error after65 epochs is:1038.2782
+Elapsed time is 66.296811 seconds.
+training epochs:66
+Global error after66 epochs is:1038.2655
+Elapsed time is 66.471428 seconds.
+training epochs:67
+Global error after67 epochs is:1038.2532
+Elapsed time is 65.636449 seconds.
+training epochs:68
+Global error after68 epochs is:1038.2414
+Elapsed time is 65.226221 seconds.
+training epochs:69
+Global error after69 epochs is:1038.23
+Elapsed time is 66.103156 seconds.
+training epochs:70
+Global error after70 epochs is:1038.219
+Elapsed time is 67.461351 seconds.
+training epochs:71
+Global error after71 epochs is:1038.2085
+Elapsed time is 65.642431 seconds.
+training epochs:72
+Global error after72 epochs is:1038.1983
+Elapsed time is 65.064932 seconds.
+training epochs:73
+Global error after73 epochs is:1038.1884
+Elapsed time is 64.354640 seconds.
+training epochs:74
+Global error after74 epochs is:1038.1789
+Elapsed time is 63.824555 seconds.
+training epochs:75
+Global error after75 epochs is:1038.1698
+Elapsed time is 70.419183 seconds.
+training epochs:76
+Global error after76 epochs is:1038.1609
+Elapsed time is 64.539929 seconds.
+training epochs:77
+Global error after77 epochs is:1038.1523
+Elapsed time is 65.571561 seconds.
+training epochs:78
+Global error after78 epochs is:1038.1441
+Elapsed time is 64.793637 seconds.
+training epochs:79
+Global error after79 epochs is:1038.136
+Elapsed time is 65.839928 seconds.
+training epochs:80
+Global error after80 epochs is:1038.1283
+Elapsed time is 66.119314 seconds.
+training epochs:81
+Global error after81 epochs is:1038.1207
+Elapsed time is 65.849900 seconds.
+training epochs:82
+Global error after82 epochs is:1038.1134
+Elapsed time is 68.436524 seconds.
+training epochs:83
+Global error after83 epochs is:1038.1063
+Elapsed time is 65.877042 seconds.
+training epochs:84
+Global error after84 epochs is:1038.0995
+Elapsed time is 65.238785 seconds.
+training epochs:85
+Global error after85 epochs is:1038.0928
+Elapsed time is 64.882378 seconds.
+training epochs:86
+Global error after86 epochs is:1038.0863
+Elapsed time is 65.205555 seconds.
+training epochs:87
+Global error after87 epochs is:1038.08
+Elapsed time is 65.753810 seconds.
+training epochs:88
+Global error after88 epochs is:1038.0739
+Elapsed time is 65.195983 seconds.
+training epochs:89
+Global error after89 epochs is:1038.0679
+Elapsed time is 66.179903 seconds.
+training epochs:90
+Global error after90 epochs is:1038.0621
+Elapsed time is 66.035752 seconds.
+training epochs:91
+Global error after91 epochs is:1038.0565
+Elapsed time is 65.309823 seconds.
+training epochs:92
+Global error after92 epochs is:1038.051
+Elapsed time is 66.106527 seconds.
+training epochs:93
+Global error after93 epochs is:1038.0456
+Elapsed time is 65.064743 seconds.
+training epochs:94
+Global error after94 epochs is:1038.0405
+Elapsed time is 66.590620 seconds.
+training epochs:95
+Global error after95 epochs is:1038.0354
+Elapsed time is 64.957616 seconds.
+training epochs:96
+Global error after96 epochs is:1038.0305
+Elapsed time is 65.664417 seconds.
+training epochs:97
+Global error after97 epochs is:1038.0257
+Elapsed time is 65.434453 seconds.
+training epochs:98
+Global error after98 epochs is:1038.021
+Elapsed time is 64.038610 seconds.
+training epochs:99
+Global error after99 epochs is:1038.0164
+Elapsed time is 64.813149 seconds.
+training epochs:100
+Global error after100 epochs is:1038.012
+Elapsed time is 65.026085 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1167.9452
+Elapsed time is 66.470515 seconds.
+training epochs:2
+Global error after2 epochs is:1103.5318
+Elapsed time is 64.822131 seconds.
+training epochs:3
+Global error after3 epochs is:1072.8903
+Elapsed time is 64.938809 seconds.
+training epochs:4
+Global error after4 epochs is:1056.3408
+Elapsed time is 65.499445 seconds.
+training epochs:5
+Global error after5 epochs is:1046.4961
+Elapsed time is 65.689359 seconds.
+training epochs:6
+Global error after6 epochs is:1040.149
+Elapsed time is 65.768138 seconds.
+training epochs:7
+Global error after7 epochs is:1035.8151
+Elapsed time is 66.713022 seconds.
+training epochs:8
+Global error after8 epochs is:1032.737
+Elapsed time is 64.994092 seconds.
+training epochs:9
+Global error after9 epochs is:1030.4885
+Elapsed time is 65.075386 seconds.
+training epochs:10
+Global error after10 epochs is:1028.8104
+Elapsed time is 64.763841 seconds.
+training epochs:11
+Global error after11 epochs is:1027.5361
+Elapsed time is 64.520968 seconds.
+training epochs:12
+Global error after12 epochs is:1026.5542
+Elapsed time is 64.567377 seconds.
+training epochs:13
+Global error after13 epochs is:1025.7879
+Elapsed time is 64.938204 seconds.
+training epochs:14
+Global error after14 epochs is:1025.1834
+Elapsed time is 65.148887 seconds.
+training epochs:15
+Global error after15 epochs is:1024.7017
+Elapsed time is 64.943169 seconds.
+training epochs:16
+Global error after16 epochs is:1024.3147
+Elapsed time is 64.642094 seconds.
+training epochs:17
+Global error after17 epochs is:1024.0013
+Elapsed time is 65.565347 seconds.
+training epochs:18
+Global error after18 epochs is:1023.7456
+Elapsed time is 64.189506 seconds.
+training epochs:19
+Global error after19 epochs is:1023.5357
+Elapsed time is 65.598407 seconds.
+training epochs:20
+Global error after20 epochs is:1023.3623
+Elapsed time is 64.002514 seconds.
+training epochs:21
+Global error after21 epochs is:1023.218
+Elapsed time is 65.025952 seconds.
+training epochs:22
+Global error after22 epochs is:1023.0973
+Elapsed time is 64.374733 seconds.
+training epochs:23
+Global error after23 epochs is:1022.9957
+Elapsed time is 65.096420 seconds.
+training epochs:24
+Global error after24 epochs is:1022.9095
+Elapsed time is 64.612185 seconds.
+training epochs:25
+Global error after25 epochs is:1022.836
+Elapsed time is 66.165398 seconds.
+training epochs:26
+Global error after26 epochs is:1022.7727
+Elapsed time is 68.196454 seconds.
+training epochs:27
+Global error after27 epochs is:1022.718
+Elapsed time is 65.493974 seconds.
+training epochs:28
+Global error after28 epochs is:1022.6704
+Elapsed time is 66.723863 seconds.
+training epochs:29
+Global error after29 epochs is:1022.6285
+Elapsed time is 66.980218 seconds.
+training epochs:30
+Global error after30 epochs is:1022.5914
+Elapsed time is 71.886683 seconds.
+training epochs:31
+Global error after31 epochs is:1022.5584
+Elapsed time is 64.581327 seconds.
+training epochs:32
+Global error after32 epochs is:1022.5288
+Elapsed time is 64.233837 seconds.
+training epochs:33
+Global error after33 epochs is:1022.502
+Elapsed time is 65.255501 seconds.
+training epochs:34
+Global error after34 epochs is:1022.4777
+Elapsed time is 66.457977 seconds.
+training epochs:35
+Global error after35 epochs is:1022.4554
+Elapsed time is 66.214300 seconds.
+training epochs:36
+Global error after36 epochs is:1022.4349
+Elapsed time is 65.406930 seconds.
+training epochs:37
+Global error after37 epochs is:1022.4159
+Elapsed time is 65.378795 seconds.
+training epochs:38
+Global error after38 epochs is:1022.3982
+Elapsed time is 64.745599 seconds.
+training epochs:39
+Global error after39 epochs is:1022.3817
+Elapsed time is 65.587117 seconds.
+training epochs:40
+Global error after40 epochs is:1022.3662
+Elapsed time is 64.660347 seconds.
+training epochs:41
+Global error after41 epochs is:1022.3516
+Elapsed time is 65.792514 seconds.
+training epochs:42
+Global error after42 epochs is:1022.3378
+Elapsed time is 65.511517 seconds.
+training epochs:43
+Global error after43 epochs is:1022.3247
+Elapsed time is 65.736891 seconds.
+training epochs:44
+Global error after44 epochs is:1022.3123
+Elapsed time is 66.162901 seconds.
+training epochs:45
+Global error after45 epochs is:1022.3004
+Elapsed time is 65.989963 seconds.
+training epochs:46
+Global error after46 epochs is:1022.289
+Elapsed time is 66.385182 seconds.
+training epochs:47
+Global error after47 epochs is:1022.2781
+Elapsed time is 65.367134 seconds.
+training epochs:48
+Global error after48 epochs is:1022.2676
+Elapsed time is 66.098193 seconds.
+training epochs:49
+Global error after49 epochs is:1022.2575
+Elapsed time is 65.176885 seconds.
+training epochs:50
+Global error after50 epochs is:1022.2477
+Elapsed time is 65.361635 seconds.
+training epochs:51
+Global error after51 epochs is:1022.2383
+Elapsed time is 65.523387 seconds.
+training epochs:52
+Global error after52 epochs is:1022.2291
+Elapsed time is 64.871313 seconds.
+training epochs:53
+Global error after53 epochs is:1022.2202
+Elapsed time is 65.948294 seconds.
+training epochs:54
+Global error after54 epochs is:1022.2115
+Elapsed time is 68.451282 seconds.
+training epochs:55
+Global error after55 epochs is:1022.2031
+Elapsed time is 66.892209 seconds.
+training epochs:56
+Global error after56 epochs is:1022.1949
+Elapsed time is 66.431787 seconds.
+training epochs:57
+Global error after57 epochs is:1022.1868
+Elapsed time is 68.595428 seconds.
+training epochs:58
+Global error after58 epochs is:1022.1789
+Elapsed time is 67.090038 seconds.
+training epochs:59
+Global error after59 epochs is:1022.1712
+Elapsed time is 66.728074 seconds.
+training epochs:60
+Global error after60 epochs is:1022.1636
+Elapsed time is 66.816777 seconds.
+training epochs:61
+Global error after61 epochs is:1022.1562
+Elapsed time is 66.616390 seconds.
+training epochs:62
+Global error after62 epochs is:1022.1489
+Elapsed time is 66.908746 seconds.
+training epochs:63
+Global error after63 epochs is:1022.1417
+Elapsed time is 66.380207 seconds.
+training epochs:64
+Global error after64 epochs is:1022.1346
+Elapsed time is 66.512873 seconds.
+training epochs:65
+Global error after65 epochs is:1022.1277
+Elapsed time is 66.912683 seconds.
+training epochs:66
+Global error after66 epochs is:1022.1208
+Elapsed time is 66.736550 seconds.
+training epochs:67
+Global error after67 epochs is:1022.1141
+Elapsed time is 66.644330 seconds.
+training epochs:68
+Global error after68 epochs is:1022.1075
+Elapsed time is 66.182976 seconds.
+training epochs:69
+Global error after69 epochs is:1022.1011
+Elapsed time is 66.270760 seconds.
+training epochs:70
+Global error after70 epochs is:1022.0947
+Elapsed time is 66.772156 seconds.
+training epochs:71
+Global error after71 epochs is:1022.0885
+Elapsed time is 66.959928 seconds.
+training epochs:72
+Global error after72 epochs is:1022.0825
+Elapsed time is 66.114088 seconds.
+training epochs:73
+Global error after73 epochs is:1022.0766
+Elapsed time is 66.769152 seconds.
+training epochs:74
+Global error after74 epochs is:1022.0709
+Elapsed time is 66.272207 seconds.
+training epochs:75
+Global error after75 epochs is:1022.0654
+Elapsed time is 67.284306 seconds.
+training epochs:76
+Global error after76 epochs is:1022.0601
+Elapsed time is 66.344057 seconds.
+training epochs:77
+Global error after77 epochs is:1022.055
+Elapsed time is 66.672722 seconds.
+training epochs:78
+Global error after78 epochs is:1022.0502
+Elapsed time is 67.280052 seconds.
+training epochs:79
+Global error after79 epochs is:1022.0455
+Elapsed time is 66.689479 seconds.
+training epochs:80
+Global error after80 epochs is:1022.0411
+Elapsed time is 67.967539 seconds.
+training epochs:81
+Global error after81 epochs is:1022.037
+Elapsed time is 65.884557 seconds.
+training epochs:82
+Global error after82 epochs is:1022.0332
+Elapsed time is 66.484824 seconds.
+training epochs:83
+Global error after83 epochs is:1022.0296
+Elapsed time is 66.193538 seconds.
+training epochs:84
+Global error after84 epochs is:1022.0263
+Elapsed time is 66.950346 seconds.
+training epochs:85
+Global error after85 epochs is:1022.0233
+Elapsed time is 66.146271 seconds.
+training epochs:86
+Global error after86 epochs is:1022.0206
+Elapsed time is 66.232242 seconds.
+training epochs:87
+Global error after87 epochs is:1022.0182
+Elapsed time is 66.304470 seconds.
+training epochs:88
+Global error after88 epochs is:1022.016
+Elapsed time is 66.657675 seconds.
+training epochs:89
+Global error after89 epochs is:1022.0141
+Elapsed time is 66.298220 seconds.
+training epochs:90
+Global error after90 epochs is:1022.0124
+Elapsed time is 66.450559 seconds.
+training epochs:91
+Global error after91 epochs is:1022.011
+Elapsed time is 67.118047 seconds.
+training epochs:92
+Global error after92 epochs is:1022.0098
+Elapsed time is 65.996170 seconds.
+training epochs:93
+Global error after93 epochs is:1022.0089
+Elapsed time is 66.080025 seconds.
+training epochs:94
+Global error after94 epochs is:1022.0081
+Elapsed time is 66.092235 seconds.
+training epochs:95
+Global error after95 epochs is:1022.0075
+Elapsed time is 67.771677 seconds.
+training epochs:96
+Global error after96 epochs is:1022.007
+Elapsed time is 65.591009 seconds.
+training epochs:97
+Global error after97 epochs is:1022.0067
+Elapsed time is 65.921269 seconds.
+training epochs:98
+Global error after98 epochs is:1022.0065
+Elapsed time is 66.253326 seconds.
+training epochs:99
+Global error after99 epochs is:1022.0063
+Elapsed time is 65.938410 seconds.
+training epochs:100
+Global error after100 epochs is:1022.0063
+Elapsed time is 65.775131 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1190.931
+Elapsed time is 65.551776 seconds.
+training epochs:2
+Global error after2 epochs is:1119.2209
+Elapsed time is 66.728301 seconds.
+training epochs:3
+Global error after3 epochs is:1085.5188
+Elapsed time is 65.602405 seconds.
+training epochs:4
+Global error after4 epochs is:1067.0867
+Elapsed time is 65.614344 seconds.
+training epochs:5
+Global error after5 epochs is:1055.8585
+Elapsed time is 66.217881 seconds.
+training epochs:6
+Global error after6 epochs is:1048.4969
+Elapsed time is 65.751440 seconds.
+training epochs:7
+Global error after7 epochs is:1043.438
+Elapsed time is 65.746663 seconds.
+training epochs:8
+Global error after8 epochs is:1039.8488
+Elapsed time is 67.039405 seconds.
+training epochs:9
+Global error after9 epochs is:1037.241
+Elapsed time is 66.234158 seconds.
+training epochs:10
+Global error after10 epochs is:1035.3088
+Elapsed time is 65.679395 seconds.
+training epochs:11
+Global error after11 epochs is:1033.8524
+Elapsed time is 65.930366 seconds.
+training epochs:12
+Global error after12 epochs is:1032.7378
+Elapsed time is 66.240726 seconds.
+training epochs:13
+Global error after13 epochs is:1031.873
+Elapsed time is 66.131068 seconds.
+training epochs:14
+Global error after14 epochs is:1031.194
+Elapsed time is 65.834105 seconds.
+training epochs:15
+Global error after15 epochs is:1030.6551
+Elapsed time is 66.362277 seconds.
+training epochs:16
+Global error after16 epochs is:1030.2234
+Elapsed time is 66.328372 seconds.
+training epochs:17
+Global error after17 epochs is:1029.8745
+Elapsed time is 65.469283 seconds.
+training epochs:18
+Global error after18 epochs is:1029.5906
+Elapsed time is 65.977450 seconds.
+training epochs:19
+Global error after19 epochs is:1029.358
+Elapsed time is 66.276363 seconds.
+training epochs:20
+Global error after20 epochs is:1029.1662
+Elapsed time is 66.130977 seconds.
+training epochs:21
+Global error after21 epochs is:1029.0072
+Elapsed time is 68.143354 seconds.
+training epochs:22
+Global error after22 epochs is:1028.8748
+Elapsed time is 65.890713 seconds.
+training epochs:23
+Global error after23 epochs is:1028.764
+Elapsed time is 65.635319 seconds.
+training epochs:24
+Global error after24 epochs is:1028.6708
+Elapsed time is 65.771877 seconds.
+training epochs:25
+Global error after25 epochs is:1028.5921
+Elapsed time is 66.500681 seconds.
+training epochs:26
+Global error after26 epochs is:1028.5254
+Elapsed time is 65.948045 seconds.
+training epochs:27
+Global error after27 epochs is:1028.4686
+Elapsed time is 65.688345 seconds.
+training epochs:28
+Global error after28 epochs is:1028.4201
+Elapsed time is 66.518205 seconds.
+training epochs:29
+Global error after29 epochs is:1028.3784
+Elapsed time is 65.576062 seconds.
+training epochs:30
+Global error after30 epochs is:1028.3426
+Elapsed time is 66.402353 seconds.
+training epochs:31
+Global error after31 epochs is:1028.3116
+Elapsed time is 66.339200 seconds.
+training epochs:32
+Global error after32 epochs is:1028.2847
+Elapsed time is 68.937401 seconds.
+training epochs:33
+Global error after33 epochs is:1028.2613
+Elapsed time is 66.416001 seconds.
+training epochs:34
+Global error after34 epochs is:1028.2408
+Elapsed time is 66.791276 seconds.
+training epochs:35
+Global error after35 epochs is:1028.2228
+Elapsed time is 69.729271 seconds.
+training epochs:36
+Global error after36 epochs is:1028.2069
+Elapsed time is 70.235069 seconds.
+training epochs:37
+Global error after37 epochs is:1028.1928
+Elapsed time is 73.191484 seconds.
+training epochs:38
+Global error after38 epochs is:1028.1803
+Elapsed time is 76.397732 seconds.
+training epochs:39
+Global error after39 epochs is:1028.1691
+Elapsed time is 69.738110 seconds.
+training epochs:40
+Global error after40 epochs is:1028.1591
+Elapsed time is 69.922980 seconds.
+training epochs:41
+Global error after41 epochs is:1028.15
+Elapsed time is 69.725979 seconds.
+training epochs:42
+Global error after42 epochs is:1028.1418
+Elapsed time is 70.976561 seconds.
+training epochs:43
+Global error after43 epochs is:1028.1344
+Elapsed time is 70.651724 seconds.
+training epochs:44
+Global error after44 epochs is:1028.1275
+Elapsed time is 70.345145 seconds.
+training epochs:45
+Global error after45 epochs is:1028.1213
+Elapsed time is 71.478912 seconds.
+training epochs:46
+Global error after46 epochs is:1028.1155
+Elapsed time is 70.437797 seconds.
+training epochs:47
+Global error after47 epochs is:1028.1101
+Elapsed time is 66.543416 seconds.
+training epochs:48
+Global error after48 epochs is:1028.1052
+Elapsed time is 64.678785 seconds.
+training epochs:49
+Global error after49 epochs is:1028.1005
+Elapsed time is 64.717189 seconds.
+training epochs:50
+Global error after50 epochs is:1028.0962
+Elapsed time is 64.499044 seconds.
+training epochs:51
+Global error after51 epochs is:1028.0921
+Elapsed time is 65.204421 seconds.
+training epochs:52
+Global error after52 epochs is:1028.0882
+Elapsed time is 64.694812 seconds.
+training epochs:53
+Global error after53 epochs is:1028.0845
+Elapsed time is 64.422839 seconds.
+training epochs:54
+Global error after54 epochs is:1028.0811
+Elapsed time is 64.605840 seconds.
+training epochs:55
+Global error after55 epochs is:1028.0778
+Elapsed time is 64.519827 seconds.
+training epochs:56
+Global error after56 epochs is:1028.0746
+Elapsed time is 65.973308 seconds.
+training epochs:57
+Global error after57 epochs is:1028.0716
+Elapsed time is 64.525461 seconds.
+training epochs:58
+Global error after58 epochs is:1028.0687
+Elapsed time is 64.578303 seconds.
+training epochs:59
+Global error after59 epochs is:1028.0659
+Elapsed time is 64.556523 seconds.
+training epochs:60
+Global error after60 epochs is:1028.0632
+Elapsed time is 64.555588 seconds.
+training epochs:61
+Global error after61 epochs is:1028.0606
+Elapsed time is 64.838708 seconds.
+training epochs:62
+Global error after62 epochs is:1028.0581
+Elapsed time is 64.453892 seconds.
+training epochs:63
+Global error after63 epochs is:1028.0557
+Elapsed time is 64.746134 seconds.
+training epochs:64
+Global error after64 epochs is:1028.0533
+Elapsed time is 64.686965 seconds.
+training epochs:65
+Global error after65 epochs is:1028.0509
+Elapsed time is 65.209318 seconds.
+training epochs:66
+Global error after66 epochs is:1028.0487
+Elapsed time is 64.787829 seconds.
+training epochs:67
+Global error after67 epochs is:1028.0464
+Elapsed time is 64.905469 seconds.
+training epochs:68
+Global error after68 epochs is:1028.0442
+Elapsed time is 64.784237 seconds.
+training epochs:69
+Global error after69 epochs is:1028.042
+Elapsed time is 64.732176 seconds.
+training epochs:70
+Global error after70 epochs is:1028.0399
+Elapsed time is 65.473880 seconds.
+training epochs:71
+Global error after71 epochs is:1028.0377
+Elapsed time is 64.834038 seconds.
+training epochs:72
+Global error after72 epochs is:1028.0356
+Elapsed time is 64.978571 seconds.
+training epochs:73
+Global error after73 epochs is:1028.0335
+Elapsed time is 64.772569 seconds.
+training epochs:74
+Global error after74 epochs is:1028.0314
+Elapsed time is 64.699517 seconds.
+training epochs:75
+Global error after75 epochs is:1028.0293
+Elapsed time is 64.764517 seconds.
+training epochs:76
+Global error after76 epochs is:1028.0272
+Elapsed time is 71.704525 seconds.
+training epochs:77
+Global error after77 epochs is:1028.025
+Elapsed time is 82.255078 seconds.
+training epochs:78
+Global error after78 epochs is:1028.0229
+Elapsed time is 71.028614 seconds.
+training epochs:79
+Global error after79 epochs is:1028.0208
+Elapsed time is 73.292587 seconds.
+training epochs:80
+Global error after80 epochs is:1028.0187
+Elapsed time is 87.571126 seconds.
+training epochs:81
+Global error after81 epochs is:1028.0165
+Elapsed time is 86.848481 seconds.
+training epochs:82
+Global error after82 epochs is:1028.0144
+Elapsed time is 80.232651 seconds.
+training epochs:83
+Global error after83 epochs is:1028.0122
+Elapsed time is 90.062873 seconds.
+training epochs:84
+Global error after84 epochs is:1028.01
+Elapsed time is 77.876955 seconds.
+training epochs:85
+Global error after85 epochs is:1028.0078
+Elapsed time is 80.499126 seconds.
+training epochs:86
+Global error after86 epochs is:1028.0056
+Elapsed time is 75.667989 seconds.
+training epochs:87
+Global error after87 epochs is:1028.0034
+Elapsed time is 78.100133 seconds.
+training epochs:88
+Global error after88 epochs is:1028.0012
+Elapsed time is 83.533467 seconds.
+training epochs:89
+Global error after89 epochs is:1027.9989
+Elapsed time is 83.134231 seconds.
+training epochs:90
+Global error after90 epochs is:1027.9967
+Elapsed time is 74.305613 seconds.
+training epochs:91
+Global error after91 epochs is:1027.9944
+Elapsed time is 69.371668 seconds.
+training epochs:92
+Global error after92 epochs is:1027.9921
+Elapsed time is 69.736398 seconds.
+training epochs:93
+Global error after93 epochs is:1027.9898
+Elapsed time is 71.330580 seconds.
+training epochs:94
+Global error after94 epochs is:1027.9875
+Elapsed time is 72.016252 seconds.
+training epochs:95
+Global error after95 epochs is:1027.9852
+Elapsed time is 69.774549 seconds.
+training epochs:96
+Global error after96 epochs is:1027.9829
+Elapsed time is 70.712591 seconds.
+training epochs:97
+Global error after97 epochs is:1027.9805
+Elapsed time is 74.557376 seconds.
+training epochs:98
+Global error after98 epochs is:1027.9782
+Elapsed time is 72.312292 seconds.
+training epochs:99
+Global error after99 epochs is:1027.9758
+Elapsed time is 72.051653 seconds.
+training epochs:100
+Global error after100 epochs is:1027.9735
+Elapsed time is 72.105488 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1211.0829
+Elapsed time is 70.023277 seconds.
+training epochs:2
+Global error after2 epochs is:1136.8163
+Elapsed time is 72.179483 seconds.
+training epochs:3
+Global error after3 epochs is:1098.6887
+Elapsed time is 70.324999 seconds.
+training epochs:4
+Global error after4 epochs is:1078.1565
+Elapsed time is 68.564623 seconds.
+training epochs:5
+Global error after5 epochs is:1066.0883
+Elapsed time is 65.165779 seconds.
+training epochs:6
+Global error after6 epochs is:1058.6235
+Elapsed time is 65.192107 seconds.
+training epochs:7
+Global error after7 epochs is:1053.8061
+Elapsed time is 65.089725 seconds.
+training epochs:8
+Global error after8 epochs is:1050.5794
+Elapsed time is 68.614091 seconds.
+training epochs:9
+Global error after9 epochs is:1048.347
+Elapsed time is 65.396131 seconds.
+training epochs:10
+Global error after10 epochs is:1046.7582
+Elapsed time is 66.430588 seconds.
+training epochs:11
+Global error after11 epochs is:1045.5995
+Elapsed time is 66.775584 seconds.
+training epochs:12
+Global error after12 epochs is:1044.7362
+Elapsed time is 67.670280 seconds.
+training epochs:13
+Global error after13 epochs is:1044.0809
+Elapsed time is 64.919169 seconds.
+training epochs:14
+Global error after14 epochs is:1043.5753
+Elapsed time is 66.037686 seconds.
+training epochs:15
+Global error after15 epochs is:1043.1795
+Elapsed time is 65.443223 seconds.
+training epochs:16
+Global error after16 epochs is:1042.8657
+Elapsed time is 65.893062 seconds.
+training epochs:17
+Global error after17 epochs is:1042.6139
+Elapsed time is 64.765170 seconds.
+training epochs:18
+Global error after18 epochs is:1042.4096
+Elapsed time is 64.257677 seconds.
+training epochs:19
+Global error after19 epochs is:1042.2424
+Elapsed time is 65.340428 seconds.
+training epochs:20
+Global error after20 epochs is:1042.1041
+Elapsed time is 65.485334 seconds.
+training epochs:21
+Global error after21 epochs is:1041.9888
+Elapsed time is 64.115428 seconds.
+training epochs:22
+Global error after22 epochs is:1041.8918
+Elapsed time is 63.925179 seconds.
+training epochs:23
+Global error after23 epochs is:1041.8096
+Elapsed time is 64.940605 seconds.
+training epochs:24
+Global error after24 epochs is:1041.7394
+Elapsed time is 65.667560 seconds.
+training epochs:25
+Global error after25 epochs is:1041.679
+Elapsed time is 64.119814 seconds.
+training epochs:26
+Global error after26 epochs is:1041.6267
+Elapsed time is 64.848111 seconds.
+training epochs:27
+Global error after27 epochs is:1041.5809
+Elapsed time is 65.141183 seconds.
+training epochs:28
+Global error after28 epochs is:1041.5408
+Elapsed time is 63.860045 seconds.
+training epochs:29
+Global error after29 epochs is:1041.5052
+Elapsed time is 65.559539 seconds.
+training epochs:30
+Global error after30 epochs is:1041.4735
+Elapsed time is 64.226703 seconds.
+training epochs:31
+Global error after31 epochs is:1041.4451
+Elapsed time is 64.470448 seconds.
+training epochs:32
+Global error after32 epochs is:1041.4195
+Elapsed time is 64.316941 seconds.
+training epochs:33
+Global error after33 epochs is:1041.3962
+Elapsed time is 63.669519 seconds.
+training epochs:34
+Global error after34 epochs is:1041.375
+Elapsed time is 65.741382 seconds.
+training epochs:35
+Global error after35 epochs is:1041.3555
+Elapsed time is 65.174483 seconds.
+training epochs:36
+Global error after36 epochs is:1041.3374
+Elapsed time is 66.429574 seconds.
+training epochs:37
+Global error after37 epochs is:1041.3206
+Elapsed time is 66.256416 seconds.
+training epochs:38
+Global error after38 epochs is:1041.305
+Elapsed time is 66.463323 seconds.
+training epochs:39
+Global error after39 epochs is:1041.2902
+Elapsed time is 77.557767 seconds.
+training epochs:40
+Global error after40 epochs is:1041.2763
+Elapsed time is 71.071045 seconds.
+training epochs:41
+Global error after41 epochs is:1041.263
+Elapsed time is 71.970063 seconds.
+training epochs:42
+Global error after42 epochs is:1041.2503
+Elapsed time is 82.237263 seconds.
+training epochs:43
+Global error after43 epochs is:1041.2381
+Elapsed time is 79.560773 seconds.
+training epochs:44
+Global error after44 epochs is:1041.2263
+Elapsed time is 72.254329 seconds.
+training epochs:45
+Global error after45 epochs is:1041.2148
+Elapsed time is 70.992620 seconds.
+training epochs:46
+Global error after46 epochs is:1041.2035
+Elapsed time is 71.969373 seconds.
+training epochs:47
+Global error after47 epochs is:1041.1925
+Elapsed time is 68.101178 seconds.
+training epochs:48
+Global error after48 epochs is:1041.1815
+Elapsed time is 64.806804 seconds.
+training epochs:49
+Global error after49 epochs is:1041.1706
+Elapsed time is 65.038659 seconds.
+training epochs:50
+Global error after50 epochs is:1041.1597
+Elapsed time is 65.036676 seconds.
+training epochs:51
+Global error after51 epochs is:1041.1488
+Elapsed time is 64.566550 seconds.
+training epochs:52
+Global error after52 epochs is:1041.1378
+Elapsed time is 66.247025 seconds.
+training epochs:53
+Global error after53 epochs is:1041.1267
+Elapsed time is 65.093969 seconds.
+training epochs:54
+Global error after54 epochs is:1041.1155
+Elapsed time is 65.040749 seconds.
+training epochs:55
+Global error after55 epochs is:1041.104
+Elapsed time is 65.582087 seconds.
+training epochs:56
+Global error after56 epochs is:1041.0924
+Elapsed time is 66.082115 seconds.
+training epochs:57
+Global error after57 epochs is:1041.0806
+Elapsed time is 64.956110 seconds.
+training epochs:58
+Global error after58 epochs is:1041.0686
+Elapsed time is 65.109844 seconds.
+training epochs:59
+Global error after59 epochs is:1041.0562
+Elapsed time is 65.256086 seconds.
+training epochs:60
+Global error after60 epochs is:1041.0436
+Elapsed time is 65.585555 seconds.
+training epochs:61
+Global error after61 epochs is:1041.0308
+Elapsed time is 64.991231 seconds.
+training epochs:62
+Global error after62 epochs is:1041.0176
+Elapsed time is 64.794968 seconds.
+training epochs:63
+Global error after63 epochs is:1041.0042
+Elapsed time is 65.091272 seconds.
+training epochs:64
+Global error after64 epochs is:1040.9905
+Elapsed time is 64.605721 seconds.
+training epochs:65
+Global error after65 epochs is:1040.9765
+Elapsed time is 64.754092 seconds.
+training epochs:66
+Global error after66 epochs is:1040.9623
+Elapsed time is 64.607220 seconds.
+training epochs:67
+Global error after67 epochs is:1040.9478
+Elapsed time is 64.372935 seconds.
+training epochs:68
+Global error after68 epochs is:1040.933
+Elapsed time is 65.102800 seconds.
+training epochs:69
+Global error after69 epochs is:1040.918
+Elapsed time is 66.197380 seconds.
+training epochs:70
+Global error after70 epochs is:1040.9028
+Elapsed time is 65.326227 seconds.
+training epochs:71
+Global error after71 epochs is:1040.8874
+Elapsed time is 64.942400 seconds.
+training epochs:72
+Global error after72 epochs is:1040.8718
+Elapsed time is 64.818454 seconds.
+training epochs:73
+Global error after73 epochs is:1040.856
+Elapsed time is 64.914357 seconds.
+training epochs:74
+Global error after74 epochs is:1040.8401
+Elapsed time is 64.784239 seconds.
+training epochs:75
+Global error after75 epochs is:1040.8242
+Elapsed time is 64.795296 seconds.
+training epochs:76
+Global error after76 epochs is:1040.8081
+Elapsed time is 64.763608 seconds.
+training epochs:77
+Global error after77 epochs is:1040.792
+Elapsed time is 64.903245 seconds.
+training epochs:78
+Global error after78 epochs is:1040.7759
+Elapsed time is 65.261372 seconds.
+training epochs:79
+Global error after79 epochs is:1040.7598
+Elapsed time is 64.881300 seconds.
+training epochs:80
+Global error after80 epochs is:1040.7437
+Elapsed time is 64.852554 seconds.
+training epochs:81
+Global error after81 epochs is:1040.7276
+Elapsed time is 64.666718 seconds.
+training epochs:82
+Global error after82 epochs is:1040.7117
+Elapsed time is 64.839038 seconds.
+training epochs:83
+Global error after83 epochs is:1040.6959
+Elapsed time is 65.853011 seconds.
+training epochs:84
+Global error after84 epochs is:1040.6802
+Elapsed time is 64.798185 seconds.
+training epochs:85
+Global error after85 epochs is:1040.6647
+Elapsed time is 65.065905 seconds.
+training epochs:86
+Global error after86 epochs is:1040.6494
+Elapsed time is 65.032131 seconds.
+training epochs:87
+Global error after87 epochs is:1040.6343
+Elapsed time is 64.984503 seconds.
+training epochs:88
+Global error after88 epochs is:1040.6195
+Elapsed time is 65.336968 seconds.
+training epochs:89
+Global error after89 epochs is:1040.6049
+Elapsed time is 64.749024 seconds.
+training epochs:90
+Global error after90 epochs is:1040.5906
+Elapsed time is 64.835014 seconds.
+training epochs:91
+Global error after91 epochs is:1040.5766
+Elapsed time is 64.815282 seconds.
+training epochs:92
+Global error after92 epochs is:1040.5629
+Elapsed time is 64.949892 seconds.
+training epochs:93
+Global error after93 epochs is:1040.5496
+Elapsed time is 69.114563 seconds.
+training epochs:94
+Global error after94 epochs is:1040.5366
+Elapsed time is 67.243028 seconds.
+training epochs:95
+Global error after95 epochs is:1040.524
+Elapsed time is 68.329831 seconds.
+training epochs:96
+Global error after96 epochs is:1040.5118
+Elapsed time is 75.758418 seconds.
+training epochs:97
+Global error after97 epochs is:1040.4999
+Elapsed time is 68.477059 seconds.
+training epochs:98
+Global error after98 epochs is:1040.4884
+Elapsed time is 67.128634 seconds.
+training epochs:99
+Global error after99 epochs is:1040.4774
+Elapsed time is 67.285330 seconds.
+training epochs:100
+Global error after100 epochs is:1040.4667
+Elapsed time is 67.317225 seconds.
+Maximum number of epochs reached, training process completed
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+Warning: NEWFF used in an obsolete way.
+          See help for NEWFF to update calls to the new argument list.
+ 
+training epochs:1
+Global error after1 epochs is:1407.85
+Elapsed time is 67.315049 seconds.
+training epochs:2
+Global error after2 epochs is:1124.7559
+Elapsed time is 66.435563 seconds.
+training epochs:3
+Global error after3 epochs is:1087.3323
+Elapsed time is 65.837748 seconds.
+training epochs:4
+Global error after4 epochs is:1065.6624
+Elapsed time is 66.075728 seconds.
+training epochs:5
+Global error after5 epochs is:1052.3872
+Elapsed time is 66.345302 seconds.
+training epochs:6
+Global error after6 epochs is:1043.8544
+Elapsed time is 64.526293 seconds.
+training epochs:7
+Global error after7 epochs is:1038.1034
+Elapsed time is 65.981232 seconds.
+training epochs:8
+Global error after8 epochs is:1034.0838
+Elapsed time is 65.863224 seconds.
+training epochs:9
+Global error after9 epochs is:1031.1986
+Elapsed time is 66.257000 seconds.
+training epochs:10
+Global error after10 epochs is:1029.0841
+Elapsed time is 66.148845 seconds.
+training epochs:11
+Global error after11 epochs is:1027.5068
+Elapsed time is 66.171421 seconds.
+training epochs:12
+Global error after12 epochs is:1026.3114
+Elapsed time is 65.629477 seconds.
+training epochs:13
+Global error after13 epochs is:1025.392
+Elapsed time is 64.872116 seconds.
+training epochs:14
+Global error after14 epochs is:1024.6752
+Elapsed time is 66.032677 seconds.
+training epochs:15
+Global error after15 epochs is:1024.1093
+Elapsed time is 67.927402 seconds.
+training epochs:16
+Global error after16 epochs is:1023.6574
+Elapsed time is 66.200844 seconds.
+training epochs:17
+Global error after17 epochs is:1023.2925
+Elapsed time is 65.271543 seconds.
+training epochs:18
+Global error after18 epochs is:1022.995
+Elapsed time is 66.099086 seconds.
+training epochs:19
+Global error after19 epochs is:1022.7502
+Elapsed time is 65.930691 seconds.
+training epochs:20
+Global error after20 epochs is:1022.547
+Elapsed time is 65.776287 seconds.
+training epochs:21
+Global error after21 epochs is:1022.3771
+Elapsed time is 65.854733 seconds.
+training epochs:22
+Global error after22 epochs is:1022.2337
+Elapsed time is 65.408608 seconds.
+training epochs:23
+Global error after23 epochs is:1022.112
+Elapsed time is 67.730803 seconds.
+training epochs:24
+Global error after24 epochs is:1022.0078
+Elapsed time is 67.113557 seconds.
+training epochs:25
+Global error after25 epochs is:1021.9181
+Elapsed time is 65.715946 seconds.
+training epochs:26
+Global error after26 epochs is:1021.8402
+Elapsed time is 66.247529 seconds.
+training epochs:27
+Global error after27 epochs is:1021.7722
+Elapsed time is 76.785203 seconds.
+training epochs:28
+Global error after28 epochs is:1021.7124
+Elapsed time is 73.147283 seconds.
+training epochs:29
+Global error after29 epochs is:1021.6593
+Elapsed time is 69.788047 seconds.
+training epochs:30
+Global error after30 epochs is:1021.6121
+Elapsed time is 69.702438 seconds.
+training epochs:31
+Global error after31 epochs is:1021.5696
+Elapsed time is 72.521324 seconds.
+training epochs:32
+Global error after32 epochs is:1021.5311
+Elapsed time is 71.372068 seconds.
+training epochs:33
+Global error after33 epochs is:1021.4962
+Elapsed time is 75.552787 seconds.
+training epochs:34
+Global error after34 epochs is:1021.4641
+Elapsed time is 70.308159 seconds.
+training epochs:35
+Global error after35 epochs is:1021.4344
+Elapsed time is 69.108149 seconds.
+training epochs:36
+Global error after36 epochs is:1021.4069
+Elapsed time is 66.828106 seconds.
+training epochs:37
+Global error after37 epochs is:1021.3811
+Elapsed time is 67.113809 seconds.
+training epochs:38
+Global error after38 epochs is:1021.3569
+Elapsed time is 65.846931 seconds.
+training epochs:39
+Global error after39 epochs is:1021.334
+Elapsed time is 64.582109 seconds.
+training epochs:40
+Global error after40 epochs is:1021.3121
+Elapsed time is 64.961640 seconds.
+training epochs:41
+Global error after41 epochs is:1021.2912
+Elapsed time is 66.430608 seconds.
+training epochs:42
+Global error after42 epochs is:1021.2711
+Elapsed time is 65.339712 seconds.
+training epochs:43
+Global error after43 epochs is:1021.2517
+Elapsed time is 66.047828 seconds.
+training epochs:44
+Global error after44 epochs is:1021.2329
+Elapsed time is 65.141283 seconds.
+training epochs:45
+Global error after45 epochs is:1021.2145
+Elapsed time is 65.602600 seconds.
+training epochs:46
+Global error after46 epochs is:1021.1966
+Elapsed time is 67.449716 seconds.
+training epochs:47
+Global error after47 epochs is:1021.1791
+Elapsed time is 65.126381 seconds.
+training epochs:48
+Global error after48 epochs is:1021.1618
+Elapsed time is 71.423605 seconds.
+training epochs:49
+Global error after49 epochs is:1021.1449
+Elapsed time is 65.065313 seconds.
+training epochs:50
+Global error after50 epochs is:1021.1281
+Elapsed time is 68.542556 seconds.
+training epochs:51
+Global error after51 epochs is:1021.1115
+Elapsed time is 66.738354 seconds.
+training epochs:52
+Global error after52 epochs is:1021.0951
+Elapsed time is 64.049496 seconds.
+training epochs:53
+Global error after53 epochs is:1021.0789
+Elapsed time is 63.691753 seconds.
+training epochs:54
+Global error after54 epochs is:1021.0627
+Elapsed time is 66.570589 seconds.
+training epochs:55
+Global error after55 epochs is:1021.0467
+Elapsed time is 63.926484 seconds.
+training epochs:56
+Global error after56 epochs is:1021.0307
+Elapsed time is 63.435553 seconds.
+training epochs:57
+Global error after57 epochs is:1021.0148
+Elapsed time is 64.665914 seconds.
+training epochs:58
+Global error after58 epochs is:1020.999
+Elapsed time is 65.312866 seconds.
+training epochs:59
+Global error after59 epochs is:1020.9832
+Elapsed time is 65.514150 seconds.
+training epochs:60
+Global error after60 epochs is:1020.9675
+Elapsed time is 64.865649 seconds.
+training epochs:61
+Global error after61 epochs is:1020.9518
+Elapsed time is 65.309483 seconds.
+training epochs:62
+Global error after62 epochs is:1020.9362
+Elapsed time is 64.625758 seconds.
+training epochs:63
+Global error after63 epochs is:1020.9206
+Elapsed time is 65.920738 seconds.
+training epochs:64
+Global error after64 epochs is:1020.9051
+Elapsed time is 66.593660 seconds.
+training epochs:65
+Global error after65 epochs is:1020.8896
+Elapsed time is 65.798538 seconds.
+training epochs:66
+Global error after66 epochs is:1020.8742
+Elapsed time is 65.838034 seconds.
+training epochs:67
+Global error after67 epochs is:1020.8588
+Elapsed time is 67.162801 seconds.
+training epochs:68
+Global error after68 epochs is:1020.8435
+Elapsed time is 67.225775 seconds.
+training epochs:69
+Global error after69 epochs is:1020.8282
+Elapsed time is 66.998730 seconds.
+training epochs:70
+Global error after70 epochs is:1020.813
+Elapsed time is 68.090519 seconds.
+training epochs:71
+Global error after71 epochs is:1020.7979
+Elapsed time is 72.786380 seconds.
+training epochs:72
+Global error after72 epochs is:1020.7828
+Elapsed time is 70.471332 seconds.
+training epochs:73
+Global error after73 epochs is:1020.7678
+Elapsed time is 71.077001 seconds.
+training epochs:74
+Global error after74 epochs is:1020.7529
+Elapsed time is 71.379377 seconds.
+training epochs:75
+Global error after75 epochs is:1020.738
+Elapsed time is 69.135337 seconds.
+training epochs:76
+Global error after76 epochs is:1020.7233
+Elapsed time is 69.350967 seconds.
+training epochs:77
+Global error after77 epochs is:1020.7086
+Elapsed time is 69.108429 seconds.
+training epochs:78
+Global error after78 epochs is:1020.6941
+Elapsed time is 69.095289 seconds.
+training epochs:79
+Global error after79 epochs is:1020.6797
+Elapsed time is 66.639928 seconds.
+training epochs:80
+Global error after80 epochs is:1020.6654
+Elapsed time is 64.561905 seconds.
+training epochs:81
+Global error after81 epochs is:1020.6512
+Elapsed time is 63.737741 seconds.
+training epochs:82
+Global error after82 epochs is:1020.6371
+Elapsed time is 64.010216 seconds.
+training epochs:83
+Global error after83 epochs is:1020.6232
+Elapsed time is 64.715256 seconds.
+training epochs:84
+Global error after84 epochs is:1020.6095
+Elapsed time is 64.655348 seconds.
+training epochs:85
+Global error after85 epochs is:1020.5959
+Elapsed time is 63.646912 seconds.
+training epochs:86
+Global error after86 epochs is:1020.5824
+Elapsed time is 64.538808 seconds.
+training epochs:87
+Global error after87 epochs is:1020.5691
+Elapsed time is 69.908124 seconds.
+training epochs:88
+Global error after88 epochs is:1020.556
+Elapsed time is 71.385649 seconds.
+training epochs:89
+Global error after89 epochs is:1020.543
+Elapsed time is 68.565514 seconds.
+training epochs:90
+Global error after90 epochs is:1020.5303
+Elapsed time is 69.114544 seconds.
+training epochs:91
+Global error after91 epochs is:1020.5177
+Elapsed time is 70.256607 seconds.
+training epochs:92
+Global error after92 epochs is:1020.5053
+Elapsed time is 70.331781 seconds.
+training epochs:93
+Global error after93 epochs is:1020.4931
+Elapsed time is 69.917746 seconds.
+training epochs:94
+Global error after94 epochs is:1020.481
+Elapsed time is 72.726916 seconds.
+training epochs:95
+Global error after95 epochs is:1020.4692
+Elapsed time is 70.962615 seconds.
+training epochs:96
+Global error after96 epochs is:1020.4576
+Elapsed time is 65.716034 seconds.
+training epochs:97
+Global error after97 epochs is:1020.4462
+Elapsed time is 65.989348 seconds.
+training epochs:98
+Global error after98 epochs is:1020.435
+Elapsed time is 69.110831 seconds.
+training epochs:99
+Global error after99 epochs is:1020.424
+Elapsed time is 66.196050 seconds.
+training epochs:100
+Global error after100 epochs is:1020.4132
+Elapsed time is 66.637253 seconds.
+Maximum number of epochs reached, training process completed
+ans = 
+   0.749024519963350
+
+ans = 
+   0.008780937729695
